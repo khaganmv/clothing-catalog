@@ -1,0 +1,254 @@
+{
+    "Items.Q115_Afterlife_Netrunner": {
+        "command": "Game.AddToInventory(\"Items.Q115_Afterlife_Netrunner\", 1)",
+        "name_male": "AFTERLIFE NETRUNNING SUIT",
+        "image_male": "catalog/outfit/Items.Q115_Afterlife_Netrunner_male.png",
+        "name_female": "AFTERLIFE NETRUNNING SUIT",
+        "image_female": "catalog/outfit/Items.Q115_Afterlife_Netrunner_female.png"
+    },
+    "Items.MQ304_assassin_outfit": {
+        "command": "Game.AddToInventory(\"Items.MQ304_assassin_outfit\", 1)",
+        "name_male": "AGUILAR'S SUIT",
+        "image_male": "catalog/outfit/Items.MQ304_assassin_outfit_male.png",
+        "name_female": "AGUILAR'S SUIT",
+        "image_female": "catalog/outfit/Items.MQ304_assassin_outfit_female.png"
+    },
+    "Items.MQ304_assassin_outfit_ow": {
+        "command": "Game.AddToInventory(\"Items.MQ304_assassin_outfit_ow\", 1)",
+        "name_male": "AGUILAR'S SUIT",
+        "image_male": "catalog/outfit/Items.MQ304_assassin_outfit_ow_male.png",
+        "name_female": "AGUILAR'S SUIT",
+        "image_female": "catalog/outfit/Items.MQ304_assassin_outfit_ow_female.png"
+    },
+    "Items.Jumpsuit_03_old_01": {
+        "command": "Game.AddToInventory(\"Items.Jumpsuit_03_old_01\", 1)",
+        "name_male": "ARASAKA HAZMAT SUIT",
+        "image_male": "catalog/outfit/Items.Jumpsuit_03_old_01_male.png",
+        "name_female": "ARASAKA HAZMAT SUIT",
+        "image_female": "catalog/outfit/Items.Jumpsuit_03_old_01_female.png"
+    },
+    "Items.Q101_Recovery_Bandage_Outfit": {
+        "command": "Game.AddToInventory(\"Items.Q101_Recovery_Bandage_Outfit\", 1)",
+        "name_male": "BANDAGE WRAPPING",
+        "image_male": "catalog/outfit/Items.Q101_Recovery_Bandage_Outfit_male.png",
+        "name_female": "BANDAGE WRAPPING",
+        "image_female": "catalog/outfit/Items.Q101_Recovery_Bandage_Outfit_female.png"
+    },
+    "Items.Q306_corpbud_outfit": {
+        "command": "Game.AddToInventory(\"Items.Q306_corpbud_outfit\", 1)",
+        "name_male": "CORP-BUD UNIFORM",
+        "image_male": "catalog/outfit/Items.Q306_corpbud_outfit_male.png",
+        "name_female": "CORP-BUD UNIFORM",
+        "image_female": "catalog/outfit/Items.Q306_corpbud_outfit_female.png"
+    },
+    "Items.Q005_Militech_Suit_Dirty": {
+        "command": "Game.AddToInventory(\"Items.Q005_Militech_Suit_Dirty\", 1)",
+        "name_male": "DIRTY MILITECH SUIT",
+        "image_male": "catalog/outfit/Items.Q005_Militech_Suit_Dirty_male.png",
+        "name_female": "DIRTY MILITECH SUIT",
+        "image_female": "catalog/outfit/Items.Q005_Militech_Suit_Dirty_female.png"
+    },
+    "Items.Q307_hospital_outfit": {
+        "command": "Game.AddToInventory(\"Items.Q307_hospital_outfit\", 1)",
+        "name_male": "HOSPITAL GOWN",
+        "image_male": "catalog/outfit/Items.Q307_hospital_outfit_male.png",
+        "name_female": "HOSPITAL GOWN",
+        "image_female": "catalog/outfit/Items.Q307_hospital_outfit_female.png"
+    },
+    "Items.SQ023_Joshua_Prisonwear": {
+        "command": "Game.AddToInventory(\"Items.SQ023_Joshua_Prisonwear\", 1)",
+        "name_male": "JOSHUA'S PRISON UNIFORM",
+        "image_male": "catalog/outfit/Items.SQ023_Joshua_Prisonwear_male.png",
+        "name_female": "JOSHUA'S PRISON UNIFORM",
+        "image_female": "catalog/outfit/Items.SQ023_Joshua_Prisonwear_female.png"
+    },
+    "Items.SQ021_Lab_Costume": {
+        "command": "Game.AddToInventory(\"Items.SQ021_Lab_Costume\", 1)",
+        "name_male": "KANG TAO LAB SUIT",
+        "image_male": "catalog/outfit/Items.SQ021_Lab_Costume_male.png",
+        "name_female": "KANG TAO LAB SUIT",
+        "image_female": "catalog/outfit/Items.SQ021_Lab_Costume_female.png"
+    },
+    "Items.Jumpsuit_03_old_03": {
+        "command": "Game.AddToInventory(\"Items.Jumpsuit_03_old_03\", 1)",
+        "name_male": "MILITECH ARAMID-WEAVE HAZMAT SUIT",
+        "image_male": "catalog/outfit/Items.Jumpsuit_03_old_03_male.png",
+        "name_female": "MILITECH ARAMID-WEAVE HAZMAT SUIT",
+        "image_female": "catalog/outfit/Items.Jumpsuit_03_old_03_female.png"
+    },
+    "Items.Q005_Militech_Suit": {
+        "command": "Game.AddToInventory(\"Items.Q005_Militech_Suit\", 1)",
+        "name_male": "MILITECH SUIT",
+        "image_male": "catalog/outfit/Items.Q005_Militech_Suit_male.png",
+        "name_female": "MILITECH SUIT",
+        "image_female": "catalog/outfit/Items.Q005_Militech_Suit_female.png"
+    },
+    "Items.Jumpsuit_03_old_02": {
+        "command": "Game.AddToInventory(\"Items.Jumpsuit_03_old_02\", 1)",
+        "name_male": "NCPD CHEM-RESISTANT HAZMAT SUIT",
+        "image_male": "catalog/outfit/Items.Jumpsuit_03_old_02_male.png",
+        "name_female": "NCPD CHEM-RESISTANT HAZMAT SUIT",
+        "image_female": "catalog/outfit/Items.Jumpsuit_03_old_02_female.png"
+    },
+    "Items.SQ030_Diving_Suit_NoShoes": {
+        "command": "Game.AddToInventory(\"Items.SQ030_Diving_Suit_NoShoes\", 1)",
+        "name_male": "NEOPRENE DIVING SUIT (FROM JUDY)",
+        "image_male": "catalog/outfit/Items.SQ030_Diving_Suit_NoShoes_male.png",
+        "name_female": "NEOPRENE DIVING SUIT (FROM JUDY)",
+        "image_female": "catalog/outfit/Items.SQ030_Diving_Suit_NoShoes_female.png"
+    },
+    "Items.SQ030_Diving_Suit": {
+        "command": "Game.AddToInventory(\"Items.SQ030_Diving_Suit\", 1)",
+        "name_male": "NEOPRENE DIVING SUIT WITH FLIPPERS (FROM JUDY)",
+        "image_male": "catalog/outfit/Items.SQ030_Diving_Suit_male.png",
+        "name_female": "NEOPRENE DIVING SUIT WITH FLIPPERS (FROM JUDY)",
+        "image_female": "catalog/outfit/Items.SQ030_Diving_Suit_female.png"
+    },
+    "Items.Q304_netrunner_outfit": {
+        "command": "Game.AddToInventory(\"Items.Q304_netrunner_outfit\", 1)",
+        "name_male": "NETRUNNER SUIT",
+        "image_male": "catalog/outfit/Items.Q304_netrunner_outfit_male.png",
+        "name_female": "NETRUNNER SUIT",
+        "image_female": "catalog/outfit/Items.Q304_netrunner_outfit_female.png"
+    },
+    "Items.Q304_netrunner_outfit_ow": {
+        "command": "Game.AddToInventory(\"Items.Q304_netrunner_outfit_ow\", 1)",
+        "name_male": "NETRUNNER SUIT",
+        "image_male": "catalog/outfit/Items.Q304_netrunner_outfit_ow_male.png",
+        "name_female": "NETRUNNER SUIT",
+        "image_female": "catalog/outfit/Items.Q304_netrunner_outfit_ow_female.png"
+    },
+    "Items.Q301_nusa_agent": {
+        "command": "Game.AddToInventory(\"Items.Q301_nusa_agent\", 1)",
+        "name_male": "NUSA SUIT",
+        "image_male": "catalog/outfit/Items.Q301_nusa_agent_male.png",
+        "name_female": "NUSA SUIT",
+        "image_female": "catalog/outfit/Items.Q301_nusa_agent_female.png"
+    },
+    "Items.SQ029_Police_Suit": {
+        "command": "Game.AddToInventory(\"Items.SQ029_Police_Suit\", 1)",
+        "name_male": "POLICE UNIFORM",
+        "image_male": "catalog/outfit/Items.SQ029_Police_Suit_male.png",
+        "name_female": "POLICE UNIFORM",
+        "image_female": "catalog/outfit/Items.SQ029_Police_Suit_female.png"
+    },
+    "Items.Q305_hazmat": {
+        "command": "Game.AddToInventory(\"Items.Q305_hazmat\", 1)",
+        "name_male": "PROJECT CYNOSURE HAZMAT SUIT",
+        "image_male": "catalog/outfit/Items.Q305_hazmat_male.png",
+        "name_female": "PROJECT CYNOSURE HAZMAT SUIT",
+        "image_female": "catalog/outfit/Items.Q305_hazmat_female.png"
+    },
+    "Items.Roach_Race_Outfit": {
+        "command": "Game.AddToInventory(\"Items.Roach_Race_Outfit\", 1)",
+        "name_male": "ROACH WHISPERER [1.6 PATCH]",
+        "image_male": "catalog/outfit/Items.Roach_Race_Outfit_male.png",
+        "name_female": "ROACH WHISPERER [1.6 PATCH]",
+        "image_female": "catalog/outfit/Items.Roach_Race_Outfit_female.png"
+    },
+    "Items.Q005_Militech_Suit_Filthy": {
+        "command": "Game.AddToInventory(\"Items.Q005_Militech_Suit_Filthy\", 1)",
+        "name_male": "RUINED MILITECH SUIT",
+        "image_male": "catalog/outfit/Items.Q005_Militech_Suit_Filthy_male.png",
+        "name_female": "RUINED MILITECH SUIT",
+        "image_female": "catalog/outfit/Items.Q005_Militech_Suit_Filthy_female.png"
+    },
+    "Items.Q307_ending_outfit": {
+        "command": "Game.AddToInventory(\"Items.Q307_ending_outfit\", 1)",
+        "name_male": "SIMPLE FIA-ISSUED GARMENTS",
+        "image_male": "catalog/outfit/Items.Q307_ending_outfit_male.png",
+        "name_female": "SIMPLE FIA-ISSUED GARMENTS",
+        "image_female": "catalog/outfit/Items.Q307_ending_outfit_female.png"
+    },
+    "Items.Q203_Spacesuit_Outfit_NoHelmet": {
+        "command": "Game.AddToInventory(\"Items.Q203_Spacesuit_Outfit_NoHelmet\", 1)",
+        "name_male": "SPACESUIT NO HELMET",
+        "image_male": "catalog/outfit/Items.Q203_Spacesuit_Outfit_NoHelmet_male.png",
+        "name_female": "SPACESUIT NO HELMET",
+        "image_female": "catalog/outfit/Items.Q203_Spacesuit_Outfit_NoHelmet_female.png"
+    },
+    "Items.Q203_Spacesuit_Outfit_WithHelmet": {
+        "command": "Game.AddToInventory(\"Items.Q203_Spacesuit_Outfit_WithHelmet\", 1)",
+        "name_male": "SPACESUIT WITH HELMET",
+        "image_male": "catalog/outfit/Items.Q203_Spacesuit_Outfit_WithHelmet_male.png",
+        "name_female": "SPACESUIT WITH HELMET",
+        "image_female": "catalog/outfit/Items.Q203_Spacesuit_Outfit_WithHelmet_female.png"
+    },
+    "Items.Q303_party_outfit": {
+        "command": "Game.AddToInventory(\"Items.Q303_party_outfit\", 1)",
+        "name_male": "STYLISH SUIT",
+        "image_male": "catalog/outfit/Items.Q303_party_outfit_male.png",
+        "name_female": "STYLISH SUIT",
+        "image_female": "catalog/outfit/Items.Q303_party_outfit_female.png"
+    },
+    "Items.Q303_party_outfit_ow": {
+        "command": "Game.AddToInventory(\"Items.Q303_party_outfit_ow\", 1)",
+        "name_male": "STYLISH SUIT",
+        "image_male": "catalog/outfit/Items.Q303_party_outfit_ow_male.png",
+        "name_female": "STYLISH SUIT",
+        "image_female": "catalog/outfit/Items.Q303_party_outfit_ow_female.png"
+    },
+    "Items.Q303_diving_suit": {
+        "command": "Game.AddToInventory(\"Items.Q303_diving_suit\", 1)",
+        "name_male": "TACTICAL DIVING SUIT",
+        "image_male": "catalog/outfit/Items.Q303_diving_suit_male.png",
+        "name_female": "TACTICAL DIVING SUIT",
+        "image_female": "catalog/outfit/Items.Q303_diving_suit_female.png"
+    },
+    "Items.Q303_diving_suit_ow": {
+        "command": "Game.AddToInventory(\"Items.Q303_diving_suit_ow\", 1)",
+        "name_male": "TACTICAL DIVING SUIT",
+        "image_male": "catalog/outfit/Items.Q303_diving_suit_ow_male.png",
+        "name_female": "TACTICAL DIVING SUIT",
+        "image_female": "catalog/outfit/Items.Q303_diving_suit_ow_female.png"
+    },
+    "Items.Q303_diving_suit_ow_helmet": {
+        "command": "Game.AddToInventory(\"Items.Q303_diving_suit_ow_helmet\", 1)",
+        "name_male": "TACTICAL DIVING SUIT",
+        "image_male": "catalog/outfit/Items.Q303_diving_suit_ow_helmet_male.png",
+        "name_female": "TACTICAL DIVING SUIT",
+        "image_female": "catalog/outfit/Items.Q303_diving_suit_ow_helmet_female.png"
+    },
+    "Items.Trauma_Team_Outfit": {
+        "command": "Game.AddToInventory(\"Items.Trauma_Team_Outfit\", 1)",
+        "name_male": "TRAUMA TEAM UNIFORM",
+        "image_male": "catalog/outfit/Items.Trauma_Team_Outfit_male.png",
+        "name_female": "TRAUMA TEAM UNIFORM",
+        "image_female": "catalog/outfit/Items.Trauma_Team_Outfit_female.png"
+    },
+    "Items.Q114_Cyberspace_Jumpsuit": {
+        "command": "Game.AddToInventory(\"Items.Q114_Cyberspace_Jumpsuit\", 1)",
+        "name_male": "VIRTUAL JUMPSUIT",
+        "image_male": "catalog/outfit/Items.Q114_Cyberspace_Jumpsuit_male.png",
+        "name_female": "VIRTUAL JUMPSUIT",
+        "image_female": "catalog/outfit/Items.Q114_Cyberspace_Jumpsuit_female.png"
+    },
+    "Items.Q000_half_Corpo": {
+        "command": "Game.AddToInventory(\"Items.Q000_half_Corpo\", 1)",
+        "name_male": "V'S INFORMAL OUTFIT",
+        "image_male": "catalog/outfit/Items.Q000_half_Corpo_male.png",
+        "name_female": "V'S INFORMAL OUTFIT",
+        "image_female": "catalog/outfit/Items.Q000_half_Corpo_female.png"
+    },
+    "Items.Q000_half_Nomad": {
+        "command": "Game.AddToInventory(\"Items.Q000_half_Nomad\", 1)",
+        "name_male": "V'S NOMAD OUTFIT",
+        "image_male": "catalog/outfit/Items.Q000_half_Nomad_male.png",
+        "name_female": "V'S NOMAD OUTFIT",
+        "image_female": "catalog/outfit/Items.Q000_half_Nomad_female.png"
+    },
+    "Items.Q000_half_StreetKid": {
+        "command": "Game.AddToInventory(\"Items.Q000_half_StreetKid\", 1)",
+        "name_male": "V'S URBAN OUTFIT",
+        "image_male": "catalog/outfit/Items.Q000_half_StreetKid_male.png",
+        "name_female": "V'S URBAN OUTFIT",
+        "image_female": "catalog/outfit/Items.Q000_half_StreetKid_female.png"
+    },
+    "Items.sq030_diving_suit_female": {
+        "command": "Game.AddToInventory(\"Items.sq030_diving_suit_female\", 1)",
+        "name_male": "WOMEN'S DIVING SUIT  [BROKEN]",
+        "image_male": "catalog/outfit/Items.sq030_diving_suit_female_male.png",
+        "name_female": "WOMEN'S DIVING SUIT  [BROKEN]",
+        "image_female": "catalog/outfit/Items.sq030_diving_suit_female_female.png"
+    }
+}

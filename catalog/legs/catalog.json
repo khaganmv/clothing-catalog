@@ -1,0 +1,2095 @@
+{
+    "Items.Pants_20_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_rich_01\", 1)",
+        "name_male": "10K/10K WATER-REPELLENT STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_rich_01_male.png",
+        "name_female": "10K/10K WATER-REPELLENT STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_rich_01_female.png"
+    },
+    "Items.SQ023_Switchblade_Pants": {
+        "command": "Game.AddToInventory(\"Items.SQ023_Switchblade_Pants\", 1)",
+        "name_male": "4TH WALL ACTING PANTS",
+        "image_male": "catalog/legs/Items.SQ023_Switchblade_Pants_male.png",
+        "name_female": "4TH WALL ACTING PANTS",
+        "image_female": "catalog/legs/Items.SQ023_Switchblade_Pants_female.png"
+    },
+    "Items.Pants_11_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_old_03\", 1)",
+        "name_male": "6TH STREET CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_old_03_male.png",
+        "name_female": "6TH STREET CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_old_03_female.png"
+    },
+    "Items.Pants_10_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_basic_01\", 1)",
+        "name_male": "6TH STREET RUBBER-WEAVE SHINOS",
+        "image_male": "catalog/legs/Items.Pants_10_basic_01_male.png",
+        "name_female": "6TH STREET RUBBER-WEAVE SHINOS",
+        "image_female": "catalog/legs/Items.Pants_10_basic_01_female.png"
+    },
+    "Items.Pants_20_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_rich_04\", 1)",
+        "name_male": "ADAPTIVE STRAPPED CARGOS WITH ANTI-GLARE SEQUINS",
+        "image_male": "catalog/legs/Items.Pants_20_rich_04_male.png",
+        "name_female": "ADAPTIVE STRAPPED CARGOS WITH ANTI-GLARE SEQUINS",
+        "image_female": "catalog/legs/Items.Pants_20_rich_04_female.png"
+    },
+    "Items.Pants_18_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_04\", 1)",
+        "name_male": "AEROTECH SPLICERS WITH BONDED SEAMS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_04_male.png",
+        "name_female": "AEROTECH SPLICERS WITH BONDED SEAMS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_04_female.png"
+    },
+    "Items.Pants_09_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_basic_01\", 1)",
+        "name_male": "AMETHYSPEED POLYCARBONATE UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_basic_01_male.png",
+        "name_female": "AMETHYSPEED POLYCARBONATE UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_basic_01_female.png"
+    },
+    "Items.Media_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Media_01_Set_Pants\", 1)",
+        "name_male": "ANTI-PIERCING TACTICAL MEDIA CARGO PANTS",
+        "image_male": "catalog/legs/Items.Media_01_Set_Pants_male.png",
+        "name_female": "ANTI-PIERCING TACTICAL MEDIA CARGO PANTS",
+        "image_female": "catalog/legs/Items.Media_01_Set_Pants_female.png"
+    },
+    "Items.Pants_19_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_rich_04\", 1)",
+        "name_male": "ANTI-PILLING CRAWLERS WITH MICROPORE MEMBRANE",
+        "image_male": "catalog/legs/Items.Pants_19_rich_04_male.png",
+        "name_female": "ANTI-PILLING CRAWLERS WITH MICROPORE MEMBRANE",
+        "image_female": "catalog/legs/Items.Pants_19_rich_04_female.png"
+    },
+    "Items.Shorts_01_old_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_old_02\", 1)",
+        "name_male": "ANTI-PUNCTURE CUT-OFF SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_old_02_male.png",
+        "name_female": "ANTI-PUNCTURE CUT-OFF SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_old_02_female.png"
+    },
+    "Items.Cop_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Cop_01_Set_Pants\", 1)",
+        "name_male": "ANTI-PUNCTURE NEOTAC BADGE PANTS WITH COMPOSITE LINING",
+        "image_male": "catalog/legs/Items.Cop_01_Set_Pants_male.png",
+        "name_female": "ANTI-PUNCTURE NEOTAC BADGE PANTS WITH COMPOSITE LINING",
+        "image_female": "catalog/legs/Items.Cop_01_Set_Pants_female.png"
+    },
+    "Items.VHard_50_RefTech_Head": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_Head\", 1)",
+        "name_male": "ARAMID KURO KABUTO WITH HARDENED CARBON-FIBER EXTERIOR",
+        "image_male": "catalog/legs/Items.VHard_50_RefTech_Head_male.png",
+        "name_female": "ARAMID KURO KABUTO WITH HARDENED CARBON-FIBER EXTERIOR",
+        "image_female": "catalog/legs/Items.VHard_50_RefTech_Head_female.png"
+    },
+    "Items.FormalSkirt_01_rich_03": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_rich_03\", 1)",
+        "name_male": "ARASAKA REACTIVE-LAYER OFFICE SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_rich_03_male.png",
+        "name_female": "ARASAKA REACTIVE-LAYER OFFICE SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_rich_03_female.png"
+    },
+    "Items.Solo_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Solo_01_Set_Pants\", 1)",
+        "name_male": "ARMOR-PLATED SYNLEATHER SOLO PANTS",
+        "image_male": "catalog/legs/Items.Solo_01_Set_Pants_male.png",
+        "name_female": "ARMOR-PLATED SYNLEATHER SOLO PANTS",
+        "image_female": "catalog/legs/Items.Solo_01_Set_Pants_female.png"
+    },
+    "Items.Pants_11_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_basic_01\", 1)",
+        "name_male": "ARMY STAR ANTI-CHAFING CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_basic_01_male.png",
+        "name_female": "ARMY STAR ANTI-CHAFING CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_basic_01_female.png"
+    },
+    "Items.Pants_12_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_basic_03\", 1)",
+        "name_male": "AT-AK GREENER POLYCARBONATE WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_basic_03_male.png",
+        "name_female": "AT-AK GREENER POLYCARBONATE WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_basic_03_female.png"
+    },
+    "Items.Pants_09_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_rich_01\", 1)",
+        "name_male": "AT-AK UTILITY WEAR-RESISTANT PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_rich_01_male.png",
+        "name_female": "AT-AK UTILITY WEAR-RESISTANT PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_rich_01_female.png"
+    },
+    "Items.Shorts_03_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_03_basic_02\", 1)",
+        "name_male": "ATHLETIC ARAMID-WEAVE SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_03_basic_02_male.png",
+        "name_female": "ATHLETIC ARAMID-WEAVE SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_03_basic_02_female.png"
+    },
+    "Items.Shorts_02_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_basic_01\", 1)",
+        "name_male": "ATHLETIC HYBRID-WEAVE HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_basic_01_male.png",
+        "name_female": "ATHLETIC HYBRID-WEAVE HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_basic_01_female.png"
+    },
+    "Items.Pants_07_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_rich_02\", 1)",
+        "name_male": "ATOMIC BLAST TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_rich_02_male.png",
+        "name_female": "ATOMIC BLAST TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_rich_02_female.png"
+    },
+    "Items.Pants_17_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_rich_01\", 1)",
+        "name_male": "BABY BLUE BIODEGRADABLE NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_rich_01_male.png",
+        "name_female": "BABY BLUE BIODEGRADABLE NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_rich_01_female.png"
+    },
+    "Items.FormalPants_02_rich_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_rich_01\", 1)",
+        "name_male": "BAI LONG FORMAL PANTS WITH REINFORCED NEO-SILK",
+        "image_male": "catalog/legs/Items.FormalPants_02_rich_01_male.png",
+        "name_female": "BAI LONG FORMAL PANTS WITH REINFORCED NEO-SILK",
+        "image_female": "catalog/legs/Items.FormalPants_02_rich_01_female.png"
+    },
+    "Items.FormalPants_02_rich_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_rich_01_Crafting\", 1)",
+        "name_male": "B\u00c1I L\u00d3NG FORMAL PANTS WITH REINFORCED NEO-SILK",
+        "image_male": "catalog/legs/Items.FormalPants_02_rich_01_Crafting_male.png",
+        "name_female": "B\u00c1I L\u00d3NG FORMAL PANTS WITH REINFORCED NEO-SILK",
+        "image_female": "catalog/legs/Items.FormalPants_02_rich_01_Crafting_female.png"
+    },
+    "Items.Pants_20_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_01\", 1)",
+        "name_male": "BIKER STRAPPED CARGOS WITH ANTI-CROTCHSWEAT LINING",
+        "image_male": "catalog/legs/Items.Pants_20_basic_01_male.png",
+        "name_female": "BIKER STRAPPED CARGOS WITH ANTI-CROTCHSWEAT LINING",
+        "image_female": "catalog/legs/Items.Pants_20_basic_01_female.png"
+    },
+    "Items.Pants_03_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_basic_03\", 1)",
+        "name_male": "BITCH V.13 SYN-RESISTANT PANTS",
+        "image_male": "catalog/legs/Items.Pants_03_basic_03_male.png",
+        "name_female": "BITCH V.13 SYN-RESISTANT PANTS",
+        "image_female": "catalog/legs/Items.Pants_03_basic_03_female.png"
+    },
+    "Items.Shorts_02_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_basic_02\", 1)",
+        "name_male": "BLUE BRICK REINFORCED HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_basic_02_male.png",
+        "name_female": "BLUE BRICK REINFORCED HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_basic_02_female.png"
+    },
+    "Items.Shorts_02_basic_02_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_basic_02_Crafting\", 1)",
+        "name_male": "BLUE BRICK REINFORCED HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_basic_02_Crafting_male.png",
+        "name_female": "BLUE BRICK REINFORCED HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_basic_02_Crafting_female.png"
+    },
+    "Items.Pants_08_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_basic_02\", 1)",
+        "name_male": "BOOSTKNIT NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_basic_02_male.png",
+        "name_female": "BOOSTKNIT NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_basic_02_female.png"
+    },
+    "Items.Pants_07_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_rich_01\", 1)",
+        "name_male": "BOULET TURQUOISE HEAT-RESISTANT TACTICAL PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_rich_01_male.png",
+        "name_female": "BOULET TURQUOISE HEAT-RESISTANT TACTICAL PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_rich_01_female.png"
+    },
+    "Items.FormalSkirt_02_rich_02": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_rich_02\", 1)",
+        "name_male": "BRASS HARMONY SKIRT WITH DOUBLE NANOFIBER WEAVE",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_rich_02_male.png",
+        "name_female": "BRASS HARMONY SKIRT WITH DOUBLE NANOFIBER WEAVE",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_rich_02_female.png"
+    },
+    "Items.Corporate_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Corporate_01_Set_Pants\", 1)",
+        "name_male": "BREATHABLE REINFORCED BIO-COTTON CORPORATE SLACKS",
+        "image_male": "catalog/legs/Items.Corporate_01_Set_Pants_male.png",
+        "name_female": "BREATHABLE REINFORCED BIO-COTTON CORPORATE SLACKS",
+        "image_female": "catalog/legs/Items.Corporate_01_Set_Pants_female.png"
+    },
+    "Items.Pants_17_basic_08": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_08\", 1)",
+        "name_male": "BRIGHT YELLOW SILICONE-COATED NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_08_male.png",
+        "name_female": "BRIGHT YELLOW SILICONE-COATED NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_08_female.png"
+    },
+    "Items.FormalSkirt_02_basic_02": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_basic_02\", 1)",
+        "name_male": "BURGUNDY FORMAL SKIRT WITH REINFORCED SYNFIBER",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_basic_02_male.png",
+        "name_female": "BURGUNDY FORMAL SKIRT WITH REINFORCED SYNFIBER",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_basic_02_female.png"
+    },
+    "Items.Pants_03_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_basic_02\", 1)",
+        "name_male": "CANINE POWER ANTI-TEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_03_basic_02_male.png",
+        "name_female": "CANINE POWER ANTI-TEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_03_basic_02_female.png"
+    },
+    "Items.Pants_11_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_basic_02\", 1)",
+        "name_male": "CAUTION EXTRA-PLASTIC CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_basic_02_male.png",
+        "name_female": "CAUTION EXTRA-PLASTIC CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_basic_02_female.png"
+    },
+    "Items.Pants_20_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_rich_03\", 1)",
+        "name_male": "CERTIFIED HIP-PROTECTION STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_rich_03_male.png",
+        "name_female": "CERTIFIED HIP-PROTECTION STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_rich_03_female.png"
+    },
+    "Items.Pants_18_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_old_02\", 1)",
+        "name_male": "CHEAP ILL-FITTED SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_old_02_male.png",
+        "name_female": "CHEAP ILL-FITTED SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_old_02_female.png"
+    },
+    "Items.FormalSkirt_02_rich_03": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_rich_03\", 1)",
+        "name_male": "CHIC PINK DRAGON SKIRT WITH FIBERGLASS SEQUINS",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_rich_03_male.png",
+        "name_female": "CHIC PINK DRAGON SKIRT WITH FIBERGLASS SEQUINS",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_rich_03_female.png"
+    },
+    "Items.FormalSkirt_02_rich_03_Crafting": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_rich_03_Crafting\", 1)",
+        "name_male": "CHIC PINK DRAGON SKIRT WITH FIBERGLASS SEQUINS",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_rich_03_Crafting_male.png",
+        "name_female": "CHIC PINK DRAGON SKIRT WITH FIBERGLASS SEQUINS",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_rich_03_Crafting_female.png"
+    },
+    "Items.Pants_02_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_rich_02\", 1)",
+        "name_male": "CHIKURIN REINFORCED NANOWEAVE LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_rich_02_male.png",
+        "name_female": "CHIKURIN REINFORCED NANOWEAVE LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_rich_02_female.png"
+    },
+    "Items.Pants_20_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_03\", 1)",
+        "name_male": "CHLORINE-RESISTANT PBT STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_basic_03_male.png",
+        "name_female": "CHLORINE-RESISTANT PBT STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_basic_03_female.png"
+    },
+    "Items.VHard_50_TechCool_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_TechCool_Legs\", 1)",
+        "name_male": "CHLORINE-RESISTANT PBT STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.VHard_50_TechCool_Legs_male.png",
+        "name_female": "CHLORINE-RESISTANT PBT STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.VHard_50_TechCool_Legs_female.png"
+    },
+    "Items.Shorts_01_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_basic_01\", 1)",
+        "name_male": "CLASSIC ARAMID-WEAVE DENIM SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_basic_01_male.png",
+        "name_female": "CLASSIC ARAMID-WEAVE DENIM SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_basic_01_female.png"
+    },
+    "Items.Shorts_01_basic_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_basic_01_Crafting\", 1)",
+        "name_male": "CLASSIC ARAMID-WEAVE DENIM SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_basic_01_Crafting_male.png",
+        "name_female": "CLASSIC ARAMID-WEAVE DENIM SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_basic_01_Crafting_female.png"
+    },
+    "Items.Shorts_03_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_03_basic_01\", 1)",
+        "name_male": "CLASSIC ATHLETIC NANOWEAVE SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_03_basic_01_male.png",
+        "name_female": "CLASSIC ATHLETIC NANOWEAVE SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_03_basic_01_female.png"
+    },
+    "Items.FormalPants_01_basic_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_01_basic_02\", 1)",
+        "name_male": "CLASSIC COMPOSITE-LINED PLEATED PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_01_basic_02_male.png",
+        "name_female": "CLASSIC COMPOSITE-LINED PLEATED PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_01_basic_02_female.png"
+    },
+    "Items.Q301_Corpo_MA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Corpo_MA_Pants\", 1)",
+        "name_male": "CLASSIC COMPOSITE-LINED PLEATED PANTS",
+        "image_male": "catalog/legs/Items.Q301_Corpo_MA_Pants_male.png",
+        "name_female": "CLASSIC COMPOSITE-LINED PLEATED PANTS",
+        "image_female": "catalog/legs/Items.Q301_Corpo_MA_Pants_female.png"
+    },
+    "Items.FormalPants_02_basic_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_basic_01\", 1)",
+        "name_male": "CLASSIC IMMUNO-COTTON CORPORATE PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_02_basic_01_male.png",
+        "name_female": "CLASSIC IMMUNO-COTTON CORPORATE PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_02_basic_01_female.png"
+    },
+    "Items.Q301_Corpo_WA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Corpo_WA_Pants\", 1)",
+        "name_male": "CLASSIC IMMUNO-COTTON CORPORATE PANTS",
+        "image_male": "catalog/legs/Items.Q301_Corpo_WA_Pants_male.png",
+        "name_female": "CLASSIC IMMUNO-COTTON CORPORATE PANTS",
+        "image_female": "catalog/legs/Items.Q301_Corpo_WA_Pants_female.png"
+    },
+    "Items.FormalSkirt_01_basic_02": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_basic_02\", 1)",
+        "name_male": "CLASSY ARAMID-WEAVE SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_basic_02_male.png",
+        "name_female": "CLASSY ARAMID-WEAVE SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_basic_02_female.png"
+    },
+    "Items.FormalPants_02_basic_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_basic_02\", 1)",
+        "name_male": "CLASSY BORDEAUX PANTS WITH FORTIFIED SEAMS",
+        "image_male": "catalog/legs/Items.FormalPants_02_basic_02_male.png",
+        "name_female": "CLASSY BORDEAUX PANTS WITH FORTIFIED SEAMS",
+        "image_female": "catalog/legs/Items.FormalPants_02_basic_02_female.png"
+    },
+    "Items.Shorts_05_old_05": {
+        "command": "Game.AddToInventory(\"Items.Shorts_05_old_05\", 1)",
+        "name_male": "COMFY NOMAD SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_05_old_05_male.png",
+        "name_female": "COMFY NOMAD SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_05_old_05_female.png"
+    },
+    "Items.Pants_01_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_basic_01\", 1)",
+        "name_male": "COMFY ROCKER ARAMID-WEAVE SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_basic_01_male.png",
+        "name_female": "COMFY ROCKER ARAMID-WEAVE SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_basic_01_female.png"
+    },
+    "TEST.ItemPass_LegArmor": {
+        "command": "Game.AddToInventory(\"TEST.ItemPass_LegArmor\", 1)",
+        "name_male": "COMFY ROCKER ARAMID-WEAVE SLIM-FITS",
+        "image_male": "catalog/legs/TEST.ItemPass_LegArmor_male.png",
+        "name_female": "COMFY ROCKER ARAMID-WEAVE SLIM-FITS",
+        "image_female": "catalog/legs/TEST.ItemPass_LegArmor_female.png"
+    },
+    "Items.Pants_07_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_basic_03\", 1)",
+        "name_male": "COMFY TACTICAL THERMOSET-PADDED PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_basic_03_male.png",
+        "name_female": "COMFY TACTICAL THERMOSET-PADDED PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_basic_03_female.png"
+    },
+    "Items.Pants_13_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_rich_01\", 1)",
+        "name_male": "COMFY TRICKSTER COMPOSITE RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_rich_01_male.png",
+        "name_female": "COMFY TRICKSTER COMPOSITE RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_rich_01_female.png"
+    },
+    "Items.Proficiency_Shorts_02_rich_02_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Proficiency_Shorts_02_rich_02_Crafting\", 1)",
+        "name_male": "COMPOSITE KO JAGA SILK-THREADED HOTPANTS",
+        "image_male": "catalog/legs/Items.Proficiency_Shorts_02_rich_02_Crafting_male.png",
+        "name_female": "COMPOSITE KO JAGA SILK-THREADED HOTPANTS",
+        "image_female": "catalog/legs/Items.Proficiency_Shorts_02_rich_02_Crafting_female.png"
+    },
+    "Items.Shorts_02_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_rich_02\", 1)",
+        "name_male": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_rich_02_male.png",
+        "name_female": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_rich_02_female.png"
+    },
+    "Items.Hard_30_Reflex_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_30_Reflex_Legs\", 1)",
+        "name_male": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_male": "catalog/legs/Items.Hard_30_Reflex_Legs_male.png",
+        "name_female": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_female": "catalog/legs/Items.Hard_30_Reflex_Legs_female.png"
+    },
+    "Items.Normal_20_Melee_Legs": {
+        "command": "Game.AddToInventory(\"Items.Normal_20_Melee_Legs\", 1)",
+        "name_male": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_male": "catalog/legs/Items.Normal_20_Melee_Legs_male.png",
+        "name_female": "COMPOSITE KO JAG\u0100 SILK-THREADED HOTPANTS",
+        "image_female": "catalog/legs/Items.Normal_20_Melee_Legs_female.png"
+    },
+    "Items.Pants_01_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_old_02\", 1)",
+        "name_male": "COMPOSITE-COATED CAMO SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_old_02_male.png",
+        "name_female": "COMPOSITE-COATED CAMO SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_old_02_female.png"
+    },
+    "Items.Shorts_01_old_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_old_01\", 1)",
+        "name_male": "COMPOSITE-COATED CUT-OFF SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_old_01_male.png",
+        "name_female": "COMPOSITE-COATED CUT-OFF SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_old_01_female.png"
+    },
+    "Items.Shorts_04_old_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_04_old_01\", 1)",
+        "name_male": "COMPOSITE-LINED JEAN SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_04_old_01_male.png",
+        "name_female": "COMPOSITE-LINED JEAN SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_04_old_01_female.png"
+    },
+    "Items.Pants_09_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_old_03\", 1)",
+        "name_male": "COMPOSITE-LINED UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_old_03_male.png",
+        "name_female": "COMPOSITE-LINED UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_old_03_female.png"
+    },
+    "Items.Pants_10_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_old_02\", 1)",
+        "name_male": "COWBOY SHINOS WITH MICROPLATE MESH",
+        "image_male": "catalog/legs/Items.Pants_10_old_02_male.png",
+        "name_female": "COWBOY SHINOS WITH MICROPLATE MESH",
+        "image_female": "catalog/legs/Items.Pants_10_old_02_female.png"
+    },
+    "Items.Pants_06_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_rich_01\", 1)",
+        "name_male": "CRANEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_rich_01_male.png",
+        "name_female": "CRANEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_rich_01_female.png"
+    },
+    "Items.Avg_10_Int_Netrunner_Legs": {
+        "command": "Game.AddToInventory(\"Items.Avg_10_Int_Netrunner_Legs\", 1)",
+        "name_male": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Avg_10_Int_Netrunner_Legs_male.png",
+        "name_female": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Avg_10_Int_Netrunner_Legs_female.png"
+    },
+    "Items.Hard_20_Reflex_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_20_Reflex_Legs\", 1)",
+        "name_male": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Hard_20_Reflex_Legs_male.png",
+        "name_female": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Hard_20_Reflex_Legs_female.png"
+    },
+    "Items.Normal_20_Netrunner_Legs": {
+        "command": "Game.AddToInventory(\"Items.Normal_20_Netrunner_Legs\", 1)",
+        "name_male": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Normal_20_Netrunner_Legs_male.png",
+        "name_female": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Normal_20_Netrunner_Legs_female.png"
+    },
+    "Items.Weak_10_Legs": {
+        "command": "Game.AddToInventory(\"Items.Weak_10_Legs\", 1)",
+        "name_male": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Weak_10_Legs_male.png",
+        "name_female": "CR\u00c1NEO BRILLANTE POLYAMIDE EXTRA-MEMBRANE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Weak_10_Legs_female.png"
+    },
+    "Items.Pants_19_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_basic_04\", 1)",
+        "name_male": "CRAWLERS COATED WITH POLYVINYL CHLORIDE",
+        "image_male": "catalog/legs/Items.Pants_19_basic_04_male.png",
+        "name_female": "CRAWLERS COATED WITH POLYVINYL CHLORIDE",
+        "image_female": "catalog/legs/Items.Pants_19_basic_04_female.png"
+    },
+    "Items.Pants_04_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_rich_03\", 1)",
+        "name_male": "CYAN CAMO COMPOSITE-THREADED CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_rich_03_male.png",
+        "name_female": "CYAN CAMO COMPOSITE-THREADED CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_rich_03_female.png"
+    },
+    "Items.Pants_10_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_basic_02\", 1)",
+        "name_male": "CYAN PLASTIC SHINOS",
+        "image_male": "catalog/legs/Items.Pants_10_basic_02_male.png",
+        "name_female": "CYAN PLASTIC SHINOS",
+        "image_female": "catalog/legs/Items.Pants_10_basic_02_female.png"
+    },
+    "Items.Pants_03_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_rich_02\", 1)",
+        "name_male": "DARK SAPPHIRE THERMO-FABRIC ROCKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_03_rich_02_male.png",
+        "name_female": "DARK SAPPHIRE THERMO-FABRIC ROCKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_03_rich_02_female.png"
+    },
+    "Items.Pants_19_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_rich_02\", 1)",
+        "name_male": "DAZZLING FLUOROPOLYMER-COMPOSITE CRAWLERS",
+        "image_male": "catalog/legs/Items.Pants_19_rich_02_male.png",
+        "name_female": "DAZZLING FLUOROPOLYMER-COMPOSITE CRAWLERS",
+        "image_female": "catalog/legs/Items.Pants_19_rich_02_female.png"
+    },
+    "Items.Pants_07_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_rich_03\", 1)",
+        "name_male": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_rich_03_male.png",
+        "name_female": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_rich_03_female.png"
+    },
+    "Items.Hard_20_Body_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_20_Body_Legs\", 1)",
+        "name_male": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Hard_20_Body_Legs_male.png",
+        "name_female": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Hard_20_Body_Legs_female.png"
+    },
+    "Items.Hard_30_BodyTech_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_30_BodyTech_Legs\", 1)",
+        "name_male": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Hard_30_BodyTech_Legs_male.png",
+        "name_female": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Hard_30_BodyTech_Legs_female.png"
+    },
+    "Items.Str_10_Tank_Legs": {
+        "command": "Game.AddToInventory(\"Items.Str_10_Tank_Legs\", 1)",
+        "name_male": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Str_10_Tank_Legs_male.png",
+        "name_female": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Str_10_Tank_Legs_female.png"
+    },
+    "Items.Str_5_Tank_Legs": {
+        "command": "Game.AddToInventory(\"Items.Str_5_Tank_Legs\", 1)",
+        "name_male": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_male": "catalog/legs/Items.Str_5_Tank_Legs_male.png",
+        "name_female": "DECADENCIA VERDE TACTICAL ARMOR-WEAVE PANTS",
+        "image_female": "catalog/legs/Items.Str_5_Tank_Legs_female.png"
+    },
+    "Items.Pants_19_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_basic_02\", 1)",
+        "name_male": "DENIM CRAWLERS WITH POLYURETHANE INTERWEAVE",
+        "image_male": "catalog/legs/Items.Pants_19_basic_02_male.png",
+        "name_female": "DENIM CRAWLERS WITH POLYURETHANE INTERWEAVE",
+        "image_female": "catalog/legs/Items.Pants_19_basic_02_female.png"
+    },
+    "Items.Pants_01_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_rich_03\", 1)",
+        "name_male": "DENKYOKU ROCKER STRONGWEAVE DUOLAYER SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_rich_03_male.png",
+        "name_female": "DENKYOKU ROCKER STRONGWEAVE DUOLAYER SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_rich_03_female.png"
+    },
+    "Items.Shorts_04_old_03": {
+        "command": "Game.AddToInventory(\"Items.Shorts_04_old_03\", 1)",
+        "name_male": "DUOLAYER MILITARY CAMO SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_04_old_03_male.png",
+        "name_female": "DUOLAYER MILITARY CAMO SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_04_old_03_female.png"
+    },
+    "Items.Pants_06_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_old_02\", 1)",
+        "name_male": "DUOLAYER TACTICLOTH STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_old_02_male.png",
+        "name_female": "DUOLAYER TACTICLOTH STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_old_02_female.png"
+    },
+    "Items.Pants_02_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_old_01\", 1)",
+        "name_male": "DUOWEAVE COMPOSITE LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_old_01_male.png",
+        "name_female": "DUOWEAVE COMPOSITE LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_old_01_female.png"
+    },
+    "Items.Pants_01_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_old_03\", 1)",
+        "name_male": "DUOWEAVE COMPOSITE SKINNY JEANS",
+        "image_male": "catalog/legs/Items.Pants_01_old_03_male.png",
+        "name_female": "DUOWEAVE COMPOSITE SKINNY JEANS",
+        "image_female": "catalog/legs/Items.Pants_01_old_03_female.png"
+    },
+    "Items.Pants_01_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_rich_02\", 1)",
+        "name_male": "DURABLE BASILISK ARAMID-WEAVE SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_rich_02_male.png",
+        "name_female": "DURABLE BASILISK ARAMID-WEAVE SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_rich_02_female.png"
+    },
+    "Items.FormalPants_01_basic_03": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_01_basic_03\", 1)",
+        "name_male": "DURABLE BIOWEAVE PLEATED PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_01_basic_03_male.png",
+        "name_female": "DURABLE BIOWEAVE PLEATED PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_01_basic_03_female.png"
+    },
+    "Items.Pants_03_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_old_03\", 1)",
+        "name_male": "DURABLE CUSTOM-PRINTED JEANS",
+        "image_male": "catalog/legs/Items.Pants_03_old_03_male.png",
+        "name_female": "DURABLE CUSTOM-PRINTED JEANS",
+        "image_female": "catalog/legs/Items.Pants_03_old_03_female.png"
+    },
+    "Items.Pants_20_basic_06": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_06\", 1)",
+        "name_male": "DURABLE PARACHUTE-FABRIC STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_basic_06_male.png",
+        "name_female": "DURABLE PARACHUTE-FABRIC STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_basic_06_female.png"
+    },
+    "Items.FormalSkirt_01_basic_01": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_basic_01\", 1)",
+        "name_male": "DURABLE PLAID SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_basic_01_male.png",
+        "name_female": "DURABLE PLAID SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_basic_01_female.png"
+    },
+    "Items.Pants_02_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_basic_01\", 1)",
+        "name_male": "DURABLE SMILEY HARD LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_basic_01_male.png",
+        "name_female": "DURABLE SMILEY HARD LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_basic_01_female.png"
+    },
+    "Items.Pants_02_basic_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_basic_01_Crafting\", 1)",
+        "name_male": "DURABLE SMILEY HARD LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_basic_01_Crafting_male.png",
+        "name_female": "DURABLE SMILEY HARD LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_basic_01_Crafting_female.png"
+    },
+    "Items.Pants_12_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_basic_01\", 1)",
+        "name_male": "DURABLE WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_basic_01_male.png",
+        "name_female": "DURABLE WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_basic_01_female.png"
+    },
+    "Items.Netrunner_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Netrunner_01_Set_Pants\", 1)",
+        "name_male": "DURA-MEMBRANE NETRUNNER NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Netrunner_01_Set_Pants_male.png",
+        "name_female": "DURA-MEMBRANE NETRUNNER PANTS",
+        "image_female": "catalog/legs/Items.Netrunner_01_Set_Pants_female.png"
+    },
+    "Items.Rockerboy_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Rockerboy_01_Set_Pants\", 1)",
+        "name_male": "ELASTIC FLAME-RESISTANT ROCKER PANTS",
+        "image_male": "catalog/legs/Items.Rockerboy_01_Set_Pants_male.png",
+        "name_female": "ELASTIC FLAME-RESISTANT ROCKER PANTS",
+        "image_female": "catalog/legs/Items.Rockerboy_01_Set_Pants_female.png"
+    },
+    "Items.Pants_15_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_15_old_01\", 1)",
+        "name_male": "ELASTIC STURDY-STITCHED HAREM PANTS",
+        "image_male": "catalog/legs/Items.Pants_15_old_01_male.png",
+        "name_female": "ELASTIC STURDY-STITCHED HAREM PANTS",
+        "image_female": "catalog/legs/Items.Pants_15_old_01_female.png"
+    },
+    "Items.Pants_08_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_basic_03\", 1)",
+        "name_male": "EXTRA-RUBBER NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_basic_03_male.png",
+        "name_female": "EXTRA-RUBBER NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_basic_03_female.png"
+    },
+    "Items.Shorts_04_old_04": {
+        "command": "Game.AddToInventory(\"Items.Shorts_04_old_04\", 1)",
+        "name_male": "FADED SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_04_old_04_male.png",
+        "name_female": "FADED SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_04_old_04_female.png"
+    },
+    "Items.q301_fia_pants": {
+        "command": "Game.AddToInventory(\"Items.q301_fia_pants\", 1)",
+        "name_male": "FIA AGENT PANTS",
+        "image_male": "catalog/legs/Items.q301_fia_pants_male.png",
+        "name_female": "FIA AGENT PANTS",
+        "image_female": "catalog/legs/Items.q301_fia_pants_female.png"
+    },
+    "Items.Pants_17_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_03\", 1)",
+        "name_male": "FLAME-RESISTANT POLYESTER NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_03_male.png",
+        "name_female": "FLAME-RESISTANT POLYESTER NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_03_female.png"
+    },
+    "Items.FormalPants_02_basic_03": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_basic_03\", 1)",
+        "name_male": "FLASH FORMAL PANTS WITH ADDITIONAL LINING",
+        "image_male": "catalog/legs/Items.FormalPants_02_basic_03_male.png",
+        "name_female": "FLASH FORMAL PANTS WITH ADDITIONAL LINING",
+        "image_female": "catalog/legs/Items.FormalPants_02_basic_03_female.png"
+    },
+    "Items.Pants_15_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_15_basic_01\", 1)",
+        "name_male": "FLEXI-DUOLAYER HAREM PANTS",
+        "image_male": "catalog/legs/Items.Pants_15_basic_01_male.png",
+        "name_female": "FLEXI-DUOLAYER HAREM PANTS",
+        "image_female": "catalog/legs/Items.Pants_15_basic_01_female.png"
+    },
+    "Items.Pants_05_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_basic_02\", 1)",
+        "name_male": "FOAM-PADDED RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_basic_02_male.png",
+        "name_female": "FOAM-PADDED RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_basic_02_female.png"
+    },
+    "Items.Pants_18_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_03\", 1)",
+        "name_male": "FORM-FITTING FIREPROOF SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_03_male.png",
+        "name_female": "FORM-FITTING FIREPROOF SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_03_female.png"
+    },
+    "Items.Shorts_04_old_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_04_old_02\", 1)",
+        "name_male": "FRAYED JEAN SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_04_old_02_male.png",
+        "name_female": "FRAYED JEAN SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_04_old_02_female.png"
+    },
+    "Items.Pants_07_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_old_03\", 1)",
+        "name_male": "FRAYED MAELSTROM TACTICAL PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_old_03_male.png",
+        "name_female": "FRAYED MAELSTROM TACTICAL PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_old_03_female.png"
+    },
+    "Items.Pants_03_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_old_01\", 1)",
+        "name_male": "FRAYED RECYCLED JEANS",
+        "image_male": "catalog/legs/Items.Pants_03_old_01_male.png",
+        "name_female": "FRAYED RECYCLED JEANS",
+        "image_female": "catalog/legs/Items.Pants_03_old_01_female.png"
+    },
+    "Items.Pants_19_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_old_01\", 1)",
+        "name_male": "FRAYED YELLOW CRAWLERS",
+        "image_male": "catalog/legs/Items.Pants_19_old_01_male.png",
+        "name_female": "FRAYED YELLOW CRAWLERS",
+        "image_female": "catalog/legs/Items.Pants_19_old_01_female.png"
+    },
+    "Items.Pants_04_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_basic_01\", 1)",
+        "name_male": "GEISHA FLEXI-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_basic_01_male.png",
+        "name_female": "GEISHA FLEXI-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_basic_01_female.png"
+    },
+    "Items.Pants_04_basic_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_basic_01_Crafting\", 1)",
+        "name_male": "GEISHA FLEXI-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_basic_01_Crafting_male.png",
+        "name_female": "GEISHA FLEXI-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_basic_01_Crafting_female.png"
+    },
+    "Items.Pants_07_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_basic_02\", 1)",
+        "name_male": "GEISHA TACTICAL EXTRA-GUARD PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_basic_02_male.png",
+        "name_female": "GEISHA TACTICAL EXTRA-GUARD PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_basic_02_female.png"
+    },
+    "Items.Pants_08_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_rich_01\", 1)",
+        "name_male": "GOLD FURY NEOTAC BULLETPROOF PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_rich_01_male.png",
+        "name_female": "GOLD FURY NEOTAC BULLETPROOF PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_rich_01_female.png"
+    },
+    "Items.Pants_08_rich_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_rich_01_Crafting\", 1)",
+        "name_male": "GOLD FURY NEOTAC BULLETPROOF PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_rich_01_Crafting_male.png",
+        "name_female": "GOLD FURY NEOTAC BULLETPROOF PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_rich_01_Crafting_female.png"
+    },
+    "Items.FormalPants_02_rich_03": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_rich_03\", 1)",
+        "name_male": "GOLDEN HIVE POLYAMIDE DESIGNER PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_02_rich_03_male.png",
+        "name_female": "GOLDEN HIVE POLYAMIDE DESIGNER PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_02_rich_03_female.png"
+    },
+    "Items.FormalSkirt_01_rich_01": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_rich_01\", 1)",
+        "name_male": "GOLDEN MEAN ARAMID-STITCH FORMAL SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_rich_01_male.png",
+        "name_female": "GOLDEN MEAN ARAMID-STITCH FORMAL SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_rich_01_female.png"
+    },
+    "Items.FormalSkirt_01_rich_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_rich_01_Crafting\", 1)",
+        "name_male": "GOLDEN MEAN ARAMID-STITCH FORMAL SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_rich_01_Crafting_male.png",
+        "name_female": "GOLDEN MEAN ARAMID-STITCH FORMAL SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_rich_01_Crafting_female.png"
+    },
+    "Items.Shorts_02_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_rich_01\", 1)",
+        "name_male": "GOLDEN POCKET HYBRID-WEAVE HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_rich_01_male.png",
+        "name_female": "GOLDEN POCKET HYBRID-WEAVE HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_rich_01_female.png"
+    },
+    "Items.Pants_12_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_rich_03\", 1)",
+        "name_male": "GOLDEN SCALE TRILAYER WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_rich_03_male.png",
+        "name_female": "GOLDEN SCALE TRILAYER WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_rich_03_female.png"
+    },
+    "Items.Pants_18_rich_06": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_06\", 1)",
+        "name_male": "GOLD-INFUSED VISCOSE SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_06_male.png",
+        "name_female": "GOLD-INFUSED VISCOSE SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_06_female.png"
+    },
+    "Items.Pants_06_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_rich_02\", 1)",
+        "name_male": "GOLPE PUNK ANTI-SHRAPNEL STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_rich_02_male.png",
+        "name_female": "GOLPE PUNK ANTI-SHRAPNEL STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_rich_02_female.png"
+    },
+    "Items.Weak_30_Legs": {
+        "command": "Game.AddToInventory(\"Items.Weak_30_Legs\", 1)",
+        "name_male": "GOLPE PUNK ANTI-SHRAPNEL STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Weak_30_Legs_male.png",
+        "name_female": "GOLPE PUNK ANTI-SHRAPNEL STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Weak_30_Legs_female.png"
+    },
+    "Items.Shorts_05_old_04": {
+        "command": "Game.AddToInventory(\"Items.Shorts_05_old_04\", 1)",
+        "name_male": "GRAUER RECYCLED SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_05_old_04_male.png",
+        "name_female": "GRAUER RECYCLED SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_05_old_04_female.png"
+    },
+    "Items.Pants_17_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_01\", 1)",
+        "name_male": "GRAY SOFTSHELL NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_01_male.png",
+        "name_female": "GRAY SOFTSHELL NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_01_female.png"
+    },
+    "Items.Shorts_03_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_03_rich_01\", 1)",
+        "name_male": "GREEN POWER POLYAMIDE-PADDED ATHLETIC SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_03_rich_01_male.png",
+        "name_female": "GREEN POWER POLYAMIDE-PADDED ATHLETIC SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_03_rich_01_female.png"
+    },
+    "Items.Pants_20_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_rich_02\", 1)",
+        "name_male": "HARDSHELL TACTICAL POLYAMIDE STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_rich_02_male.png",
+        "name_female": "HARDSHELL TACTICAL POLYAMIDE STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_rich_02_female.png"
+    },
+    "Items.Pants_05_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_rich_01\", 1)",
+        "name_male": "HEAT-RESISTANT KILLER CANDY TRILAYER RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_rich_01_male.png",
+        "name_female": "HEAT-RESISTANT KILLER CANDY TRILAYER RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_rich_01_female.png"
+    },
+    "Items.Pants_10_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_old_01\", 1)",
+        "name_male": "HEAT-RESISTANT NYLON SHINOS",
+        "image_male": "catalog/legs/Items.Pants_10_old_01_male.png",
+        "name_female": "HEAT-RESISTANT NYLON SHINOS",
+        "image_female": "catalog/legs/Items.Pants_10_old_01_female.png"
+    },
+    "Items.Pants_18_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_basic_02\", 1)",
+        "name_male": "HEAT-RESISTANT SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_basic_02_male.png",
+        "name_female": "HEAT-RESISTANT SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_basic_02_female.png"
+    },
+    "Items.Pants_13_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_rich_02\", 1)",
+        "name_male": "HEAVY-DUTY FLAMINGO ARAMIDWEAVE RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_rich_02_male.png",
+        "name_female": "HEAVY-DUTY FLAMINGO ARAMIDWEAVE RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_rich_02_female.png"
+    },
+    "Items.VHard_50_IntTech_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_IntTech_Legs\", 1)",
+        "name_male": "HEAVY-DUTY MAXTAC CARGO PANTS",
+        "image_male": "catalog/legs/Items.VHard_50_IntTech_Legs_male.png",
+        "name_female": "HEAVY-DUTY MAXTAC CARGO PANTS",
+        "image_female": "catalog/legs/Items.VHard_50_IntTech_Legs_female.png"
+    },
+    "Items.SQ030_MaxTac_Pants": {
+        "command": "Game.AddToInventory(\"Items.SQ030_MaxTac_Pants\", 1)",
+        "name_male": "HEAVY-DUTY MAXTAC CARGO PANTS",
+        "image_male": "catalog/legs/Items.SQ030_MaxTac_Pants_male.png",
+        "name_female": "HEAVY-DUTY MAXTAC CARGO PANTS",
+        "image_female": "catalog/legs/Items.SQ030_MaxTac_Pants_female.png"
+    },
+    "Items.Pants_04_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_rich_01\", 1)",
+        "name_male": "HEAVY-DUTY ORO FLORECIENTE ARMOR-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_rich_01_male.png",
+        "name_female": "HEAVY-DUTY ORO FLORECIENTE ARMOR-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_rich_01_female.png"
+    },
+    "Items.Normal_20_Ranged_Legs": {
+        "command": "Game.AddToInventory(\"Items.Normal_20_Ranged_Legs\", 1)",
+        "name_male": "HEAVY-DUTY ORO FLORECIENTE ARMOR-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Normal_20_Ranged_Legs_male.png",
+        "name_female": "HEAVY-DUTY ORO FLORECIENTE ARMOR-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Normal_20_Ranged_Legs_female.png"
+    },
+    "Items.FormalSkirt_02_rich_01": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_rich_01\", 1)",
+        "name_male": "HEISE TRILAYER FORMAL SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_rich_01_male.png",
+        "name_female": "HEISE TRILAYER FORMAL SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_rich_01_female.png"
+    },
+    "Items.Proficiency_FormalSkirt_02_rich_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Proficiency_FormalSkirt_02_rich_01_Crafting\", 1)",
+        "name_male": "HEISE TRILAYER FORMAL SKIRT",
+        "image_male": "catalog/legs/Items.Proficiency_FormalSkirt_02_rich_01_Crafting_male.png",
+        "name_female": "HEISE TRILAYER FORMAL SKIRT",
+        "image_female": "catalog/legs/Items.Proficiency_FormalSkirt_02_rich_01_Crafting_female.png"
+    },
+    "Items.Pants_02_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_rich_01\", 1)",
+        "name_male": "HOLY ROSE BOOSTKNIT LOOSE-FITS WITH THERMOACTIVE COATING",
+        "image_male": "catalog/legs/Items.Pants_02_rich_01_male.png",
+        "name_female": "HOLY ROSE BOOSTKNIT LOOSE-FITS WITH THERMOACTIVE COATING",
+        "image_female": "catalog/legs/Items.Pants_02_rich_01_female.png"
+    },
+    "Items.Hard_30_IntBody_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_30_IntBody_Legs\", 1)",
+        "name_male": "HOLY ROSE BOOSTKNIT LOOSE-FITS WITH THERMOACTIVE COATING",
+        "image_male": "catalog/legs/Items.Hard_30_IntBody_Legs_male.png",
+        "name_female": "HOLY ROSE BOOSTKNIT LOOSE-FITS WITH THERMOACTIVE COATING",
+        "image_female": "catalog/legs/Items.Hard_30_IntBody_Legs_female.png"
+    },
+    "Items.Q201_SpaceHospitalPants": {
+        "command": "Game.AddToInventory(\"Items.Q201_SpaceHospitalPants\", 1)",
+        "name_male": "HOSPITAL SCRUB PANTS",
+        "image_male": "catalog/legs/Items.Q201_SpaceHospitalPants_male.png",
+        "name_female": "HOSPITAL SCRUB PANTS",
+        "image_female": "catalog/legs/Items.Q201_SpaceHospitalPants_female.png"
+    },
+    "Items.Q201_SpaceHospitalPantsShoes": {
+        "command": "Game.AddToInventory(\"Items.Q201_SpaceHospitalPantsShoes\", 1)",
+        "name_male": "HOSPITAL SCRUB PANTS",
+        "image_male": "catalog/legs/Items.Q201_SpaceHospitalPantsShoes_male.png",
+        "name_female": "HOSPITAL SCRUB PANTS",
+        "image_female": "catalog/legs/Items.Q201_SpaceHospitalPantsShoes_female.png"
+    },
+    "Items.Pants_18_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_01\", 1)",
+        "name_male": "HYBRID RECYCLED-POLYAMIDE SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_01_male.png",
+        "name_female": "HYBRID RECYCLED-POLYAMIDE SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_01_female.png"
+    },
+    "Items.FormalPants_03_rich_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_rich_01\", 1)",
+        "name_male": "IMPERIAL MARBLE ARAMID-WEAVE FORMAL PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_03_rich_01_male.png",
+        "name_female": "IMPERIAL MARBLE ARAMID-WEAVE FORMAL PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_03_rich_01_female.png"
+    },
+    "Items.Q005_Johnny_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Pants\", 1)",
+        "name_male": "JOHNNY'S PANTS",
+        "image_male": "catalog/legs/Items.Q005_Johnny_Pants_male.png",
+        "name_female": "JOHNNY'S PANTS",
+        "image_female": "catalog/legs/Items.Q005_Johnny_Pants_female.png"
+    },
+    "Items.Q005_Johnny_Pants_Epic": {
+        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Pants_Epic\", 1)",
+        "name_male": "JOHNNY'S PANTS",
+        "image_male": "catalog/legs/Items.Q005_Johnny_Pants_Epic_male.png",
+        "name_female": "JOHNNY'S PANTS",
+        "image_female": "catalog/legs/Items.Q005_Johnny_Pants_Epic_female.png"
+    },
+    "Items.Q005_Johnny_Pants_Legendary": {
+        "command": "Game.AddToInventory(\"Items.Q005_Johnny_Pants_Legendary\", 1)",
+        "name_male": "JOHNNY'S PANTS",
+        "image_male": "catalog/legs/Items.Q005_Johnny_Pants_Legendary_male.png",
+        "name_female": "JOHNNY'S PANTS",
+        "image_female": "catalog/legs/Items.Q005_Johnny_Pants_Legendary_female.png"
+    },
+    "Items.Q204_Epilogue_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q204_Epilogue_Pants\", 1)",
+        "name_male": "JOHNNY'S PANTS",
+        "image_male": "catalog/legs/Items.Q204_Epilogue_Pants_male.png",
+        "name_female": "JOHNNY'S PANTS",
+        "image_female": "catalog/legs/Items.Q204_Epilogue_Pants_female.png"
+    },
+    "Items.Pants_04_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_basic_03\", 1)",
+        "name_male": "KANCHO SYN-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_basic_03_male.png",
+        "name_female": "KANCHO SYN-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_basic_03_female.png"
+    },
+    "Items.Pants_17_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_old_03\", 1)",
+        "name_male": "LAMINATED SYNTHLEATHER NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_old_03_male.png",
+        "name_female": "LAMINATED SYNTHLEATHER NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_old_03_female.png"
+    },
+    "Items.Pants_01_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_basic_02\", 1)",
+        "name_male": "LIGHT AZURE COMPOSITE-LINED SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_basic_02_male.png",
+        "name_female": "LIGHT AZURE COMPOSITE-LINED SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_basic_02_female.png"
+    },
+    "Items.Shorts_05_old_03": {
+        "command": "Game.AddToInventory(\"Items.Shorts_05_old_03\", 1)",
+        "name_male": "LIGHT ELECTRO EXTRA-LINED SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_05_old_03_male.png",
+        "name_female": "LIGHT ELECTRO EXTRA-LINED SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_05_old_03_female.png"
+    },
+    "Items.Pants_13_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_basic_03\", 1)",
+        "name_male": "LIGHT MILITARY SYN-STRENGTHENED RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_basic_03_male.png",
+        "name_female": "LIGHT MILITARY SYN-STRENGTHENED RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_basic_03_female.png"
+    },
+    "Items.Pants_14_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_basic_01\", 1)",
+        "name_male": "LIGHT PSYCHO KNEE-PADDED YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_basic_01_male.png",
+        "name_female": "LIGHT PSYCHO KNEE-PADDED YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_basic_01_female.png"
+    },
+    "Items.Pants_03_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_rich_01\", 1)",
+        "name_male": "LIGHT SAEKO'S DERAKKUSU STURDY-MESH PANTS",
+        "image_male": "catalog/legs/Items.Pants_03_rich_01_male.png",
+        "name_female": "LIGHT SAEKO'S DERAKKUSU STURDY-MESH PANTS",
+        "image_female": "catalog/legs/Items.Pants_03_rich_01_female.png"
+    },
+    "Items.Shorts_02_old_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_old_02\", 1)",
+        "name_male": "LIGHTWEIGHT HEAT-RESISTANT HOTPANTS",
+        "image_male": "catalog/legs/Items.Shorts_02_old_02_male.png",
+        "name_female": "LIGHTWEIGHT HEAT-RESISTANT HOTPANTS",
+        "image_female": "catalog/legs/Items.Shorts_02_old_02_female.png"
+    },
+    "Items.Pants_02_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_old_03\", 1)",
+        "name_male": "LOOSE-FITS WITH MICROMESH UNDERLAYER",
+        "image_male": "catalog/legs/Items.Pants_02_old_03_male.png",
+        "name_female": "LOOSE-FITS WITH MICROMESH UNDERLAYER",
+        "image_female": "catalog/legs/Items.Pants_02_old_03_female.png"
+    },
+    "Items.Shorts_01_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_rich_01\", 1)",
+        "name_male": "MAGENTA CUT-OFF DUOLAYER NANOWEAVE SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_rich_01_male.png",
+        "name_female": "MAGENTA CUT-OFF DUOLAYER NANOWEAVE SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_rich_01_female.png"
+    },
+    "Items.Pants_04_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_basic_02\", 1)",
+        "name_male": "MANDARINE RESISTANT CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_basic_02_male.png",
+        "name_female": "MANDARINE RESISTANT CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_basic_02_female.png"
+    },
+    "Items.Pants_12_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_old_01\", 1)",
+        "name_male": "MAXIWEAR WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_old_01_male.png",
+        "name_female": "MAXIWEAR WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_old_01_female.png"
+    },
+    "Items.Pants_14_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_rich_01\", 1)",
+        "name_male": "MIDORI EAZY-BREATHE THERMOACTIVE YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_rich_01_male.png",
+        "name_female": "MIDORI EAZY-BREATHE THERMOACTIVE YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_rich_01_female.png"
+    },
+    "Items.Pants_09_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_basic_02\", 1)",
+        "name_male": "MIDORI TORA REINFORCED UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_basic_02_male.png",
+        "name_female": "MIDORI TORA REINFORCED UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_basic_02_female.png"
+    },
+    "Items.Pants_05_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_old_01\", 1)",
+        "name_male": "MILITARY CAMO RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_old_01_male.png",
+        "name_female": "MILITARY CAMO RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_old_01_female.png"
+    },
+    "Items.Pants_17_rich_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_rich_04\", 1)",
+        "name_male": "MILITARY NOVAWEAR PANTS WITH NANOCERAMIC SEAMS",
+        "image_male": "catalog/legs/Items.Pants_17_rich_04_male.png",
+        "name_female": "MILITARY NOVAWEAR PANTS WITH NANOCERAMIC SEAMS",
+        "image_female": "catalog/legs/Items.Pants_17_rich_04_female.png"
+    },
+    "Items.Pants_20_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_old_02\", 1)",
+        "name_male": "MILITARY SURPLUS STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_old_02_male.png",
+        "name_female": "MILITARY SURPLUS STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_old_02_female.png"
+    },
+    "Items.Pants_08_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_basic_01\", 1)",
+        "name_male": "MILITECH NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_basic_01_male.png",
+        "name_female": "MILITECH NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_basic_01_female.png"
+    },
+    "Items.q005_militech_pants": {
+        "command": "Game.AddToInventory(\"Items.q005_militech_pants\", 1)",
+        "name_male": "MILITECH PANTS [BROKEN]",
+        "image_male": "catalog/legs/Items.q005_militech_pants_male.png",
+        "name_female": "MILITECH PANTS [BROKEN]",
+        "image_female": "catalog/legs/Items.q005_militech_pants_female.png"
+    },
+    "Items.Pants_19_rich_05": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_rich_05\", 1)",
+        "name_male": "MOISTURE-WICKING CRAWLERS WITH ANTI-FRAG QUILTING",
+        "image_male": "catalog/legs/Items.Pants_19_rich_05_male.png",
+        "name_female": "MOISTURE-WICKING CRAWLERS WITH ANTI-FRAG QUILTING",
+        "image_female": "catalog/legs/Items.Pants_19_rich_05_female.png"
+    },
+    "Items.FormalSkirt_01_rich_02": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_rich_02\", 1)",
+        "name_male": "MOSIAC GLEAM SKIRT WITH COMPOSITE LINING",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_rich_02_male.png",
+        "name_female": "MOSIAC GLEAM SKIRT WITH COMPOSITE LINING",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_rich_02_female.png"
+    },
+    "Items.Pants_17_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_02\", 1)",
+        "name_male": "MOTTLED MEMBRANE NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_02_male.png",
+        "name_female": "MOTTLED MEMBRANE NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_02_female.png"
+    },
+    "Items.VHard_50_BodyCool_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_BodyCool_Legs\", 1)",
+        "name_male": "MOTTLED MEMBRANE NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.VHard_50_BodyCool_Legs_male.png",
+        "name_female": "MOTTLED MEMBRANE NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.VHard_50_BodyCool_Legs_female.png"
+    },
+    "Items.Pants_18_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_old_03\", 1)",
+        "name_male": "MUD-COVERED UNSTYLISH SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_old_03_male.png",
+        "name_female": "MUD-COVERED UNSTYLISH SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_old_03_female.png"
+    },
+    "Items.Pants_20_basic_05": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_05\", 1)",
+        "name_male": "MULTI-DEFENSE IMPREGNATED LYOCELL STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_basic_05_male.png",
+        "name_female": "MULTI-DEFENSE IMPREGNATED LYOCELL STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_basic_05_female.png"
+    },
+    "Items.FormalPants_03_old_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_old_01\", 1)",
+        "name_male": "MULTILAYER CUSTOM-PRINT PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_03_old_01_male.png",
+        "name_female": "MULTILAYER CUSTOM-PRINT PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_03_old_01_female.png"
+    },
+    "Items.Pants_18_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_basic_03\", 1)",
+        "name_male": "MUTED PSEUDO-BOVINE LEATHER SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_basic_03_male.png",
+        "name_female": "MUTED PSEUDO-BOVINE LEATHER SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_basic_03_female.png"
+    },
+    "Items.Shorts_03_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Shorts_03_basic_03\", 1)",
+        "name_male": "N54 ATHLETIC SHORTS WITH THERMOACTIVE MESH",
+        "image_male": "catalog/legs/Items.Shorts_03_basic_03_male.png",
+        "name_female": "N54 ATHLETIC SHORTS WITH THERMOACTIVE MESH",
+        "image_female": "catalog/legs/Items.Shorts_03_basic_03_female.png"
+    },
+    "Items.Pants_17_old_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_old_04\", 1)",
+        "name_male": "NITRILE NOVAWEAR PANTS WITH THERMOACTIVE LINING",
+        "image_male": "catalog/legs/Items.Pants_17_old_04_male.png",
+        "name_female": "NITRILE NOVAWEAR PANTS WITH THERMOACTIVE LINING",
+        "image_female": "catalog/legs/Items.Pants_17_old_04_female.png"
+    },
+    "Items.Pants_11_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_old_02\", 1)",
+        "name_male": "NOMAD EAZY-BREATHE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_old_02_male.png",
+        "name_female": "NOMAD EAZY-BREATHE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_old_02_female.png"
+    },
+    "Items.Pants_20_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_02\", 1)",
+        "name_male": "NON-SLIP STRAPPED CARGOS WITH HEXAGONAL PATTERN",
+        "image_male": "catalog/legs/Items.Pants_20_basic_02_male.png",
+        "name_female": "NON-SLIP STRAPPED CARGOS WITH HEXAGONAL PATTERN",
+        "image_female": "catalog/legs/Items.Pants_20_basic_02_female.png"
+    },
+    "Items.Pants_19_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_rich_01\", 1)",
+        "name_male": "NO-SWISH NYLON-COTTON CRAWLERS",
+        "image_male": "catalog/legs/Items.Pants_19_rich_01_male.png",
+        "name_female": "NO-SWISH NYLON-COTTON CRAWLERS",
+        "image_female": "catalog/legs/Items.Pants_19_rich_01_female.png"
+    },
+    "Items.Pants_17_basic_06": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_06\", 1)",
+        "name_male": "NOVAWEAR PANTS WITH PROTECTIVE PTFE LAYER",
+        "image_male": "catalog/legs/Items.Pants_17_basic_06_male.png",
+        "name_female": "NOVAWEAR PANTS WITH PROTECTIVE PTFE LAYER",
+        "image_female": "catalog/legs/Items.Pants_17_basic_06_female.png"
+    },
+    "Items.Twitch_Drop_Pants": {
+        "command": "Game.AddToInventory(\"Items.Twitch_Drop_Pants\", 1)",
+        "name_male": "NUS INFILTRATOR PANTS",
+        "image_male": "catalog/legs/Items.Twitch_Drop_Pants_male.png",
+        "name_female": "NUS INFILTRATOR PANTS",
+        "image_female": "catalog/legs/Items.Twitch_Drop_Pants_female.png"
+    },
+    "Items.Pants_08_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_rich_03\", 1)",
+        "name_male": "OCEAN BULLETPROOF NEOTAC BIKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_rich_03_male.png",
+        "name_female": "OCEAN BULLETPROOF NEOTAC BIKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_rich_03_female.png"
+    },
+    "Items.Pants_08_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_old_01\", 1)",
+        "name_male": "OLD BANANA JUICE NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_old_01_male.png",
+        "name_female": "OLD BANANA JUICE NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_old_01_female.png"
+    },
+    "Items.Pants_20_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_old_01\", 1)",
+        "name_male": "OLD BROWN STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_old_01_male.png",
+        "name_female": "OLD BROWN STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_old_01_female.png"
+    },
+    "Items.Pants_07_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_old_01\", 1)",
+        "name_male": "OLD FLAZH TACTICAL PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_old_01_male.png",
+        "name_female": "OLD FLAZH TACTICAL PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_old_01_female.png"
+    },
+    "Items.Shorts_05_old_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_05_old_01\", 1)",
+        "name_male": "OLD MILITARY SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_05_old_01_male.png",
+        "name_female": "OLD MILITARY SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_05_old_01_female.png"
+    },
+    "Items.Shorts_03_old_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_03_old_01\", 1)",
+        "name_male": "OLD N54 ATHLETIC SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_03_old_01_male.png",
+        "name_female": "OLD N54 ATHLETIC SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_03_old_01_female.png"
+    },
+    "Items.Pants_12_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_old_02\", 1)",
+        "name_male": "OLD SAEKO'S WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_old_02_male.png",
+        "name_female": "OLD SAEKO'S WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_old_02_female.png"
+    },
+    "Items.Shorts_01_old_03": {
+        "command": "Game.AddToInventory(\"Items.Shorts_01_old_03\", 1)",
+        "name_male": "OLD-GOLD TAC-FABRIC DUOLAYER CUT-OFF SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_01_old_03_male.png",
+        "name_female": "OLD-GOLD TAC-FABRIC DUOLAYER CUT-OFF SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_01_old_03_female.png"
+    },
+    "Items.Pants_20_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_basic_04\", 1)",
+        "name_male": "ORGANIC COTTON DESERT CAMO STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_basic_04_male.png",
+        "name_female": "ORGANIC COTTON DESERT CAMO STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_basic_04_female.png"
+    },
+    "Items.Pants_17_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_rich_03\", 1)",
+        "name_male": "PADDED NOVAWEAR PANTS WITH POLYCARBONATE SCALES",
+        "image_male": "catalog/legs/Items.Pants_17_rich_03_male.png",
+        "name_female": "PADDED NOVAWEAR PANTS WITH POLYCARBONATE SCALES",
+        "image_female": "catalog/legs/Items.Pants_17_rich_03_female.png"
+    },
+    "Items.Pants_03_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_old_02\", 1)",
+        "name_male": "PATCHED JEANS",
+        "image_male": "catalog/legs/Items.Pants_03_old_02_male.png",
+        "name_female": "PATCHED JEANS",
+        "image_female": "catalog/legs/Items.Pants_03_old_02_female.png"
+    },
+    "Items.Pants_09_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_old_02\", 1)",
+        "name_male": "PERFORMANCE-BOOSTED UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_old_02_male.png",
+        "name_female": "PERFORMANCE-BOOSTED UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_old_02_female.png"
+    },
+    "Items.VHard_50_RefTech_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_RefTech_Legs\", 1)",
+        "name_male": "PHANTOM TOUGH-LINED CARGO PANTS",
+        "image_male": "catalog/legs/Items.VHard_50_RefTech_Legs_male.png",
+        "name_female": "PHANTOM TOUGH-LINED CARGO PANTS",
+        "image_female": "catalog/legs/Items.VHard_50_RefTech_Legs_female.png"
+    },
+    "Items.Pants_11_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_basic_03\", 1)",
+        "name_male": "PHANTOM TOUGH-LINED CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_basic_03_male.png",
+        "name_female": "PHANTOM TOUGH-LINED CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_basic_03_female.png"
+    },
+    "Items.Pants_15_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_15_rich_01\", 1)",
+        "name_male": "PINK LAGOON ARMOR-COATED HAREM PANTS",
+        "image_male": "catalog/legs/Items.Pants_15_rich_01_male.png",
+        "name_female": "PINK LAGOON ARMOR-COATED HAREM PANTS",
+        "image_female": "catalog/legs/Items.Pants_15_rich_01_female.png"
+    },
+    "Items.Pants_19_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_basic_03\", 1)",
+        "name_male": "POLYESTER CRAWLERS WITH NYLON GUSSETS",
+        "image_male": "catalog/legs/Items.Pants_19_basic_03_male.png",
+        "name_female": "POLYESTER CRAWLERS WITH NYLON GUSSETS",
+        "image_female": "catalog/legs/Items.Pants_19_basic_03_female.png"
+    },
+    "Items.FormalSkirt_01_basic_03": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_basic_03\", 1)",
+        "name_male": "POWDER PINK SKIRT WITH DURA-HYBRID WEAVE",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_basic_03_male.png",
+        "name_female": "POWDER PINK SKIRT WITH DURA-HYBRID WEAVE",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_basic_03_female.png"
+    },
+    "Items.Pants_11_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_rich_03\", 1)",
+        "name_male": "POWER FAME CARGO PANTS WITH REINFORCED MESH",
+        "image_male": "catalog/legs/Items.Pants_11_rich_03_male.png",
+        "name_female": "POWER FAME CARGO PANTS WITH REINFORCED MESH",
+        "image_female": "catalog/legs/Items.Pants_11_rich_03_female.png"
+    },
+    "Items.Pants_18_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_02\", 1)",
+        "name_male": "PREEM ANTISTATIC SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_02_male.png",
+        "name_female": "PREEM ANTISTATIC SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_02_female.png"
+    },
+    "Items.Fixer_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Fixer_01_Set_Pants\", 1)",
+        "name_male": "PROTECTIVE-LAYER FIXER PANTS",
+        "image_male": "catalog/legs/Items.Fixer_01_Set_Pants_male.png",
+        "name_female": "PROTECTIVE-LAYER FIXER SKIRT",
+        "image_female": "catalog/legs/Items.Fixer_01_Set_Pants_female.png"
+    },
+    "Items.Pants_05_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_old_02\", 1)",
+        "name_male": "PSYCHO RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_old_02_male.png",
+        "name_female": "PSYCHO RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_old_02_female.png"
+    },
+    "Items.Pants_03_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_rich_03\", 1)",
+        "name_male": "PSYCHO TAC-FIBER BIKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_03_rich_03_male.png",
+        "name_female": "PSYCHO TAC-FIBER BIKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_03_rich_03_female.png"
+    },
+    "Items.Pants_05_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_basic_01\", 1)",
+        "name_male": "PUNK COMPOSITE-METAL RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_basic_01_male.png",
+        "name_female": "PUNK COMPOSITE-METAL RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_basic_01_female.png"
+    },
+    "Items.Pants_02_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_rich_03\", 1)",
+        "name_male": "PURPLE DRAGON DUOLAYER HYBRID LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_rich_03_male.png",
+        "name_female": "PURPLE DRAGON DUOLAYER HYBRID LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_rich_03_female.png"
+    },
+    "Items.Pants_11_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_rich_02\", 1)",
+        "name_male": "PURPLE SHOCK ANTI-MECH CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_rich_02_male.png",
+        "name_female": "PURPLE SHOCK ANTI-MECH CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_rich_02_female.png"
+    },
+    "Items.Pants_17_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_04\", 1)",
+        "name_male": "RAYON-COMPOSITE NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_04_male.png",
+        "name_female": "RAYON-COMPOSITE NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_04_female.png"
+    },
+    "Items.Pants_18_basic_05": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_basic_05\", 1)",
+        "name_male": "REFLECTIVE SEMI-ELASTIC SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_basic_05_male.png",
+        "name_female": "REFLECTIVE SEMI-ELASTIC SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_basic_05_female.png"
+    },
+    "Items.FormalPants_01_old_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_01_old_01\", 1)",
+        "name_male": "REINFORCED ANTI-PUNCTURE PLEATED PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_01_old_01_male.png",
+        "name_female": "REINFORCED ANTI-PUNCTURE PLEATED PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_01_old_01_female.png"
+    },
+    "Items.VHard_50_CoolRef_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_CoolRef_Legs\", 1)",
+        "name_male": "REINFORCED ANTI-PUNCTURE PLEATED PANTS",
+        "image_male": "catalog/legs/Items.VHard_50_CoolRef_Legs_male.png",
+        "name_female": "REINFORCED ANTI-PUNCTURE PLEATED PANTS",
+        "image_female": "catalog/legs/Items.VHard_50_CoolRef_Legs_female.png"
+    },
+    "Items.Techie_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Techie_01_Set_Pants\", 1)",
+        "name_male": "REINFORCED DUOLAYER TECHIE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Techie_01_Set_Pants_male.png",
+        "name_female": "REINFORCED DUOLAYER TECHIE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Techie_01_Set_Pants_female.png"
+    },
+    "Items.Pants_06_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_basic_01\", 1)",
+        "name_male": "REINFORCED FEDERALIST STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_basic_01_male.png",
+        "name_female": "REINFORCED FEDERALIST STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_basic_01_female.png"
+    },
+    "Items.Pants_06_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_old_03\", 1)",
+        "name_male": "REINFORCED HYBRIDWEAVE STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_old_03_male.png",
+        "name_female": "REINFORCED HYBRIDWEAVE STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_old_03_female.png"
+    },
+    "Items.Pants_04_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_old_02\", 1)",
+        "name_male": "REINFORCED SYNFIBER CARGO JEANS",
+        "image_male": "catalog/legs/Items.Pants_04_old_02_male.png",
+        "name_female": "REINFORCED SYNFIBER CARGO JEANS",
+        "image_female": "catalog/legs/Items.Pants_04_old_02_female.png"
+    },
+    "Items.Pants_01_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_rich_01\", 1)",
+        "name_male": "ROSA ESCARLATA POLYAMIDE-WEAVE SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_rich_01_male.png",
+        "name_female": "ROSA ESCARLATA POLYAMIDE-WEAVE SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_rich_01_female.png"
+    },
+    "Items.Pants_13_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_old_02\", 1)",
+        "name_male": "ROTTEN JUNGLE RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_old_02_male.png",
+        "name_female": "ROTTEN JUNGLE RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_old_02_female.png"
+    },
+    "Items.FormalPants_02_rich_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_02_rich_02\", 1)",
+        "name_male": "ROYAL GRAY ARAMID-WEAVE DRESS PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_02_rich_02_male.png",
+        "name_female": "ROYAL GRAY ARAMID-WEAVE DRESS PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_02_rich_02_female.png"
+    },
+    "Items.Pants_04_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_old_03\", 1)",
+        "name_male": "RUBBER-LINED CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_old_03_male.png",
+        "name_female": "RUBBER-LINED CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_old_03_female.png"
+    },
+    "Items.Pants_19_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_basic_01\", 1)",
+        "name_male": "RUGGED DENIM CRAWLERS WITH ECO-LEATHER PADS",
+        "image_male": "catalog/legs/Items.Pants_19_basic_01_male.png",
+        "name_female": "RUGGED DENIM CRAWLERS WITH ECO-LEATHER PADS",
+        "image_female": "catalog/legs/Items.Pants_19_basic_01_female.png"
+    },
+    "Items.Pants_14_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_rich_02\", 1)",
+        "name_male": "RYU ANTI-TEAR TRILAYER YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_rich_02_male.png",
+        "name_female": "RYU ANTI-TEAR TRILAYER YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_rich_02_female.png"
+    },
+    "Items.FormalSkirt_02_basic_03": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_basic_03\", 1)",
+        "name_male": "SAEKO'S LIMITED ELEGANT DUOWEAVE SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_basic_03_male.png",
+        "name_female": "SAEKO'S LIMITED ELEGANT DUOWEAVE SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_basic_03_female.png"
+    },
+    "Items.Pants_04_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_basic_04\", 1)",
+        "name_male": "SAMURAI STURDY-STITCHED CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_basic_04_male.png",
+        "name_female": "SAMURAI STURDY-STITCHED CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_basic_04_female.png"
+    },
+    "Items.Pants_08_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_old_02\", 1)",
+        "name_male": "SECONDHAND MAELSTROM NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_old_02_male.png",
+        "name_female": "SECONDHAND MAELSTROM NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_old_02_female.png"
+    },
+    "Items.Pants_20_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_old_03\", 1)",
+        "name_male": "SECONDHAND PERSONALIZED STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_old_03_male.png",
+        "name_female": "SECONDHAND PERSONALIZED STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_old_03_female.png"
+    },
+    "Items.Pants_12_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_old_03\", 1)",
+        "name_male": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_old_03_male.png",
+        "name_female": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_old_03_female.png"
+    },
+    "Items.Hard_20_Intelligence_Legs": {
+        "command": "Game.AddToInventory(\"Items.Hard_20_Intelligence_Legs\", 1)",
+        "name_male": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Hard_20_Intelligence_Legs_male.png",
+        "name_female": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Hard_20_Intelligence_Legs_female.png"
+    },
+    "Items.Str_30_Cool_Assassin_Legs": {
+        "command": "Game.AddToInventory(\"Items.Str_30_Cool_Assassin_Legs\", 1)",
+        "name_male": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Str_30_Cool_Assassin_Legs_male.png",
+        "name_female": "SECONDHAND RED DEATH WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Str_30_Cool_Assassin_Legs_female.png"
+    },
+    "Items.Pants_04_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_rich_02\", 1)",
+        "name_male": "SILVER STAR DUOLAYER ARAMID-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_rich_02_male.png",
+        "name_female": "SILVER STAR DUOLAYER ARAMID-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_rich_02_female.png"
+    },
+    "Items.Pants_18_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_basic_01\", 1)",
+        "name_male": "SILVERY NICKEL-PLATED SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_basic_01_male.png",
+        "name_female": "SILVERY NICKEL-PLATED SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_basic_01_female.png"
+    },
+    "Items.FormalPants_03_basic_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_basic_01\", 1)",
+        "name_male": "SIMPLE OFFICE PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_03_basic_01_male.png",
+        "name_female": "SIMPLE OFFICE PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_03_basic_01_female.png"
+    },
+    "Items.Pants_14_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_old_01\", 1)",
+        "name_male": "SIMPLE YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_old_01_male.png",
+        "name_female": "SIMPLE YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_old_01_female.png"
+    },
+    "Items.Pants_11_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_rich_01\", 1)",
+        "name_male": "SLANT LIGHTNING HYBRID-WEAVE CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_rich_01_male.png",
+        "name_female": "SLANT LIGHTNING HYBRID-WEAVE CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_rich_01_female.png"
+    },
+    "Items.Pants_18_basic_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_basic_04\", 1)",
+        "name_male": "SMUDGE-RESISTANT SLIM-FIT SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_basic_04_male.png",
+        "name_female": "SMUDGE-RESISTANT SLIM-FIT SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_basic_04_female.png"
+    },
+    "Items.Pants_06_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_basic_02\", 1)",
+        "name_male": "SOMBRA ROSA FOAM-PADDED STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_basic_02_male.png",
+        "name_female": "SOMBRA ROSA FOAM-PADDED STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_basic_02_female.png"
+    },
+    "Items.FormalPants_03_old_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_old_02\", 1)",
+        "name_male": "SPEED ADDICT POLYAMIDE PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_03_old_02_male.png",
+        "name_female": "SPEED ADDICT POLYAMIDE PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_03_old_02_female.png"
+    },
+    "Items.Pants_15_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_15_basic_02\", 1)",
+        "name_male": "SPORTY HAREM PANTS WITH COTTON ARMOR-WEAVE",
+        "image_male": "catalog/legs/Items.Pants_15_basic_02_male.png",
+        "name_female": "SPORTY HAREM PANTS WITH COTTON ARMOR-WEAVE",
+        "image_female": "catalog/legs/Items.Pants_15_basic_02_female.png"
+    },
+    "Items.Pants_01_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_old_01\", 1)",
+        "name_male": "SPOTTED POLYAMIDE SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_old_01_male.png",
+        "name_female": "SPOTTED POLYAMIDE SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_old_01_female.png"
+    },
+    "Items.Pants_18_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_old_01\", 1)",
+        "name_male": "SPRAY-PAINTED SECONDHAND SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_old_01_male.png",
+        "name_female": "SPRAY-PAINTED SECONDHAND SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_old_01_female.png"
+    },
+    "Items.Pants_02_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_basic_03\", 1)",
+        "name_male": "STREET GLOW THERMOSET-LEATHER LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_basic_03_male.png",
+        "name_female": "STREET GLOW THERMOSET-LEATHER LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_basic_03_female.png"
+    },
+    "Items.Pants_10_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_rich_02\", 1)",
+        "name_male": "STRIPE'N'BLACK REINFORCED NANOWEAVE SHINOS",
+        "image_male": "catalog/legs/Items.Pants_10_rich_02_male.png",
+        "name_female": "STRIPE'N'BLACK REINFORCED NANOWEAVE SHINOS",
+        "image_female": "catalog/legs/Items.Pants_10_rich_02_female.png"
+    },
+    "Items.FormalPants_01_basic_01": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_01_basic_01\", 1)",
+        "name_male": "STURDY SYNFIBER PLEATED PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_01_basic_01_male.png",
+        "name_female": "STURDY SYNFIBER PLEATED PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_01_basic_01_female.png"
+    },
+    "Items.Proficiency_FormalPants_01_basic_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Proficiency_FormalPants_01_basic_01_Crafting\", 1)",
+        "name_male": "STURDY SYNFIBER PLEATED PANTS",
+        "image_male": "catalog/legs/Items.Proficiency_FormalPants_01_basic_01_Crafting_male.png",
+        "name_female": "STURDY SYNFIBER PLEATED PANTS",
+        "image_female": "catalog/legs/Items.Proficiency_FormalPants_01_basic_01_Crafting_female.png"
+    },
+    "Items.Pants_03_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_03_basic_01\", 1)",
+        "name_male": "STURDY-STITCHED PUNK JEANS",
+        "image_male": "catalog/legs/Items.Pants_03_basic_01_male.png",
+        "name_female": "STURDY-STITCHED PUNK JEANS",
+        "image_female": "catalog/legs/Items.Pants_03_basic_01_female.png"
+    },
+    "Items.VHard_50_IntRef_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_IntRef_Legs\", 1)",
+        "name_male": "STURDY-STITCHED PUNK JEANS",
+        "image_male": "catalog/legs/Items.VHard_50_IntRef_Legs_male.png",
+        "name_female": "STURDY-STITCHED PUNK JEANS",
+        "image_female": "catalog/legs/Items.VHard_50_IntRef_Legs_female.png"
+    },
+    "Items.Pants_01_basic_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_01_basic_03\", 1)",
+        "name_male": "STURDY-STITCHED SLIM-FITS",
+        "image_male": "catalog/legs/Items.Pants_01_basic_03_male.png",
+        "name_female": "STURDY-STITCHED SLIM-FITS",
+        "image_female": "catalog/legs/Items.Pants_01_basic_03_female.png"
+    },
+    "Items.Pants_12_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_rich_01\", 1)",
+        "name_male": "SUDO CLAWS POLYAMIDE-COMPOSITE WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_rich_01_male.png",
+        "name_female": "SUDO CLAWS POLYAMIDE-COMPOSITE WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_rich_01_female.png"
+    },
+    "Items.Pants_07_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_basic_01\", 1)",
+        "name_male": "SUICHU YOGAN EXTRA-PROTECTION TACTICAL PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_basic_01_male.png",
+        "name_female": "SUICHU YOGAN EXTRA-PROTECTION TACTICAL PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_basic_01_female.png"
+    },
+    "Items.Pants_12_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_basic_02\", 1)",
+        "name_male": "SWEET LICKS ULTRA-FLEXI WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_basic_02_male.png",
+        "name_female": "SWEET LICKS ULTRA-FLEXI WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_basic_02_female.png"
+    },
+    "Items.Shorts_05_old_02": {
+        "command": "Game.AddToInventory(\"Items.Shorts_05_old_02\", 1)",
+        "name_male": "SYN-THREADED SHORTS",
+        "image_male": "catalog/legs/Items.Shorts_05_old_02_male.png",
+        "name_female": "SYN-THREADED SHORTS",
+        "image_female": "catalog/legs/Items.Shorts_05_old_02_female.png"
+    },
+    "Items.Pants_11_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_11_old_01\", 1)",
+        "name_male": "TACTICLOTH CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_11_old_01_male.png",
+        "name_female": "TACTICLOTH CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_11_old_01_female.png"
+    },
+    "Items.FormalPants_01_old_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_01_old_02\", 1)",
+        "name_male": "TACTICLOTH PLEATED PANTS",
+        "image_male": "catalog/legs/Items.FormalPants_01_old_02_male.png",
+        "name_female": "TACTICLOTH PLEATED PANTS",
+        "image_female": "catalog/legs/Items.FormalPants_01_old_02_female.png"
+    },
+    "Items.Pants_09_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_rich_02\", 1)",
+        "name_male": "TAMASHI ANTI-MECH UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_rich_02_male.png",
+        "name_female": "TAMASHI ANTI-MECH UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_rich_02_female.png"
+    },
+    "Items.Pants_20_old_04": {
+        "command": "Game.AddToInventory(\"Items.Pants_20_old_04\", 1)",
+        "name_male": "TEAR-PRONE STRAPPED CARGOS",
+        "image_male": "catalog/legs/Items.Pants_20_old_04_male.png",
+        "name_female": "TEAR-PRONE STRAPPED CARGOS",
+        "image_female": "catalog/legs/Items.Pants_20_old_04_female.png"
+    },
+    "Items.FormalSkirt_02_basic_01": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_02_basic_01\", 1)",
+        "name_male": "TEAR-RESISTANT OFFICE SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_02_basic_01_male.png",
+        "name_female": "TEAR-RESISTANT OFFICE SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_02_basic_01_female.png"
+    },
+    "Items.Pants_10_rich_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_10_rich_01\", 1)",
+        "name_male": "TEN70 H2S PLASTIC SHIN-GUARD SHINOS",
+        "image_male": "catalog/legs/Items.Pants_10_rich_01_male.png",
+        "name_female": "TEN70 H2S PLASTIC SHIN-GUARD SHINOS",
+        "image_female": "catalog/legs/Items.Pants_10_rich_01_female.png"
+    },
+    "Items.Weak_20_Cool_Legs": {
+        "command": "Game.AddToInventory(\"Items.Weak_20_Cool_Legs\", 1)",
+        "name_male": "TEN70 H2S PLASTIC SHIN-GUARD SHINOS",
+        "image_male": "catalog/legs/Items.Weak_20_Cool_Legs_male.png",
+        "name_female": "TEN70 H2S PLASTIC SHIN-GUARD SHINOS",
+        "image_female": "catalog/legs/Items.Weak_20_Cool_Legs_female.png"
+    },
+    "Items.Pants_12_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_12_rich_02\", 1)",
+        "name_male": "TG-TIGER HEAT-RESISTANT WINDBREAKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_12_rich_02_male.png",
+        "name_female": "TG-TIGER HEAT-RESISTANT WINDBREAKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_12_rich_02_female.png"
+    },
+    "Items.Pants_19_rich_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_rich_03\", 1)",
+        "name_male": "THERMAL CRAWLERS WITH FOAM INSERTS",
+        "image_male": "catalog/legs/Items.Pants_19_rich_03_male.png",
+        "name_female": "THERMAL CRAWLERS WITH FOAM INSERTS",
+        "image_female": "catalog/legs/Items.Pants_19_rich_03_female.png"
+    },
+    "Items.Pants_18_rich_05": {
+        "command": "Game.AddToInventory(\"Items.Pants_18_rich_05\", 1)",
+        "name_male": "THERMOFORMED ALUMINUM SPLICERS",
+        "image_male": "catalog/legs/Items.Pants_18_rich_05_male.png",
+        "name_female": "THERMOFORMED ALUMINUM SPLICERS",
+        "image_female": "catalog/legs/Items.Pants_18_rich_05_female.png"
+    },
+    "Items.Pants_19_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_old_02\", 1)",
+        "name_male": "THICK CRAWLERS WITH THIGH POCKETS",
+        "image_male": "catalog/legs/Items.Pants_19_old_02_male.png",
+        "name_female": "THICK CRAWLERS WITH THIGH POCKETS",
+        "image_female": "catalog/legs/Items.Pants_19_old_02_female.png"
+    },
+    "Items.Pants_14_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_basic_02\", 1)",
+        "name_male": "TIGER STURDY-STITCHED YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_basic_02_male.png",
+        "name_female": "TIGER STURDY-STITCHED YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_basic_02_female.png"
+    },
+    "Items.Shorts_02_old_01": {
+        "command": "Game.AddToInventory(\"Items.Shorts_02_old_01\", 1)",
+        "name_male": "TRILAYER HOTPANTS WITH MICROMESH",
+        "image_male": "catalog/legs/Items.Shorts_02_old_01_male.png",
+        "name_female": "TRILAYER HOTPANTS WITH MICROMESH",
+        "image_female": "catalog/legs/Items.Shorts_02_old_01_female.png"
+    },
+    "Items.Pants_17_basic_07": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_07\", 1)",
+        "name_male": "TRILAYER NOVAWEAR PANTS WITH ELASTIC WAIST",
+        "image_male": "catalog/legs/Items.Pants_17_basic_07_male.png",
+        "name_female": "TRILAYER NOVAWEAR PANTS WITH ELASTIC WAIST",
+        "image_female": "catalog/legs/Items.Pants_17_basic_07_female.png"
+    },
+    "Items.Pants_13_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_old_01\", 1)",
+        "name_male": "ULTRA-CUSHIONED MOTORCYCLE RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_old_01_male.png",
+        "name_female": "ULTRA-CUSHIONED MOTORCYCLE RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_old_01_female.png"
+    },
+    "Items.FormalSkirt_01_basic_04": {
+        "command": "Game.AddToInventory(\"Items.FormalSkirt_01_basic_04\", 1)",
+        "name_male": "ULTRA-ELASTIC BITCH V.13 SKIRT",
+        "image_male": "catalog/legs/Items.FormalSkirt_01_basic_04_male.png",
+        "name_female": "ULTRA-ELASTIC BITCH V.13 SKIRT",
+        "image_female": "catalog/legs/Items.FormalSkirt_01_basic_04_female.png"
+    },
+    "Items.Pants_17_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_rich_02\", 1)",
+        "name_male": "ULTRALIGHT NEOPOLYESTER NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_rich_02_male.png",
+        "name_female": "ULTRALIGHT NEOPOLYESTER NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_rich_02_female.png"
+    },
+    "Items.Nomad_01_Set_Pants": {
+        "command": "Game.AddToInventory(\"Items.Nomad_01_Set_Pants\", 1)",
+        "name_male": "ULTRALIGHT TEAR-RESISTANT NOMAD PANTS",
+        "image_male": "catalog/legs/Items.Nomad_01_Set_Pants_male.png",
+        "name_female": "ULTRALIGHT TEAR-RESISTANT NOMAD PANTS",
+        "image_female": "catalog/legs/Items.Nomad_01_Set_Pants_female.png"
+    },
+    "Items.FormalPants_03_rich_02": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_rich_02\", 1)",
+        "name_male": "UNIWARE BRASS OFFICE PANTS WITH MEMBRANE SUPPORT",
+        "image_male": "catalog/legs/Items.FormalPants_03_rich_02_male.png",
+        "name_female": "UNIWARE BRASS OFFICE PANTS WITH MEMBRANE SUPPORT",
+        "image_female": "catalog/legs/Items.FormalPants_03_rich_02_female.png"
+    },
+    "Items.FormalPants_03_rich_02_Crafting": {
+        "command": "Game.AddToInventory(\"Items.FormalPants_03_rich_02_Crafting\", 1)",
+        "name_male": "UNIWARE BRASS OFFICE PANTS WITH MEMBRANE SUPPORT",
+        "image_male": "catalog/legs/Items.FormalPants_03_rich_02_Crafting_male.png",
+        "name_female": "UNIWARE BRASS OFFICE PANTS WITH MEMBRANE SUPPORT",
+        "image_female": "catalog/legs/Items.FormalPants_03_rich_02_Crafting_female.png"
+    },
+    "Items.Pants_08_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_rich_02\", 1)",
+        "name_male": "URBAN LASER ANTI-PUNCTURE NEOTAC BIKER PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_rich_02_male.png",
+        "name_female": "URBAN LASER ANTI-PUNCTURE NEOTAC BIKER PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_rich_02_female.png"
+    },
+    "Items.Pants_17_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_old_02\", 1)",
+        "name_male": "USED OUTDOORSMAN RIPSTOP NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_old_02_male.png",
+        "name_female": "USED OUTDOORSMAN RIPSTOP NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_old_02_female.png"
+    },
+    "Items.Pants_13_basic_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_basic_01\", 1)",
+        "name_male": "VENOM DYE DUOLAYER RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_basic_01_male.png",
+        "name_female": "VENOM DYE DUOLAYER RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_basic_01_female.png"
+    },
+    "Items.Proficiency_Pants_13_basic_01_Crafting": {
+        "command": "Game.AddToInventory(\"Items.Proficiency_Pants_13_basic_01_Crafting\", 1)",
+        "name_male": "VENOM DYE DUOLAYER RIDING PANTS",
+        "image_male": "catalog/legs/Items.Proficiency_Pants_13_basic_01_Crafting_male.png",
+        "name_female": "VENOM DYE DUOLAYER RIDING PANTS",
+        "image_female": "catalog/legs/Items.Proficiency_Pants_13_basic_01_Crafting_female.png"
+    },
+    "Items.Pants_06_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_06_old_01\", 1)",
+        "name_male": "VINTAGE EXTRA-LEATHER STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Pants_06_old_01_male.png",
+        "name_female": "VINTAGE EXTRA-LEATHER STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Pants_06_old_01_female.png"
+    },
+    "Items.Story_5_Legs": {
+        "command": "Game.AddToInventory(\"Items.Story_5_Legs\", 1)",
+        "name_male": "VINTAGE EXTRA-LEATHER STRAIGHTCUTS",
+        "image_male": "catalog/legs/Items.Story_5_Legs_male.png",
+        "name_female": "VINTAGE EXTRA-LEATHER STRAIGHTCUTS",
+        "image_female": "catalog/legs/Items.Story_5_Legs_female.png"
+    },
+    "Items.Q203_Epilogue_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q203_Epilogue_Pants\", 1)",
+        "name_male": "V'S EXPENSIVE LEGGINGS",
+        "image_male": "catalog/legs/Items.Q203_Epilogue_Pants_male.png",
+        "name_female": "V'S EXPENSIVE LEGGINGS",
+        "image_female": "catalog/legs/Items.Q203_Epilogue_Pants_female.png"
+    },
+    "Items.Q202_Epilogue_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q202_Epilogue_Pants\", 1)",
+        "name_male": "V'S NEW LEGGINGS",
+        "image_male": "catalog/legs/Items.Q202_Epilogue_Pants_male.png",
+        "name_female": "V'S NEW LEGGINGS",
+        "image_female": "catalog/legs/Items.Q202_Epilogue_Pants_female.png"
+    },
+    "Items.Q000_Nomad_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q000_Nomad_Pants\", 1)",
+        "name_male": "V'S NOMAD PANTS",
+        "image_male": "catalog/legs/Items.Q000_Nomad_Pants_male.png",
+        "name_female": "V'S NOMAD PANTS",
+        "image_female": "catalog/legs/Items.Q000_Nomad_Pants_female.png"
+    },
+    "Items.Q000_Corpo_FormalPants": {
+        "command": "Game.AddToInventory(\"Items.Q000_Corpo_FormalPants\", 1)",
+        "name_male": "V'S OFFICE SLACKS",
+        "image_male": "catalog/legs/Items.Q000_Corpo_FormalPants_male.png",
+        "name_female": "V'S OFFICE SLACKS",
+        "image_female": "catalog/legs/Items.Q000_Corpo_FormalPants_female.png"
+    },
+    "Items.Q301_Street_MA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Street_MA_Pants\", 1)",
+        "name_male": "V'S PANTS",
+        "image_male": "catalog/legs/Items.Q301_Street_MA_Pants_male.png",
+        "name_female": "V'S PANTS",
+        "image_female": "catalog/legs/Items.Q301_Street_MA_Pants_female.png"
+    },
+    "Items.Q301_Street_WA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Street_WA_Pants\", 1)",
+        "name_male": "V'S PANTS",
+        "image_male": "catalog/legs/Items.Q301_Street_WA_Pants_male.png",
+        "name_female": "V'S PANTS",
+        "image_female": "catalog/legs/Items.Q301_Street_WA_Pants_female.png"
+    },
+    "Items.Q001_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q001_Pants\", 1)",
+        "name_male": "V'S PANTS",
+        "image_male": "catalog/legs/Items.Q001_Pants_male.png",
+        "name_female": "V'S PANTS",
+        "image_female": "catalog/legs/Items.Q001_Pants_female.png"
+    },
+    "Items.Q000_StreetKid_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q000_StreetKid_Pants\", 1)",
+        "name_male": "V'S SREETWEAR PANTS",
+        "image_male": "catalog/legs/Items.Q000_StreetKid_Pants_male.png",
+        "name_female": "V'S SREETWEAR PANTS",
+        "image_female": "catalog/legs/Items.Q000_StreetKid_Pants_female.png"
+    },
+    "Items.Pants_17_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_old_01\", 1)",
+        "name_male": "WASHED-OUT POLYCOTTON NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_old_01_male.png",
+        "name_female": "WASHED-OUT POLYCOTTON NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_old_01_female.png"
+    },
+    "Items.Pants_17_basic_05": {
+        "command": "Game.AddToInventory(\"Items.Pants_17_basic_05\", 1)",
+        "name_male": "WATER-REPELLENT NOVAWEAR PANTS",
+        "image_male": "catalog/legs/Items.Pants_17_basic_05_male.png",
+        "name_female": "WATER-REPELLENT NOVAWEAR PANTS",
+        "image_female": "catalog/legs/Items.Pants_17_basic_05_female.png"
+    },
+    "Items.Pants_02_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_old_02\", 1)",
+        "name_male": "WORKPLACE LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_old_02_male.png",
+        "name_female": "WORKPLACE LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_old_02_female.png"
+    },
+    "Items.Pants_04_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_04_old_01\", 1)",
+        "name_male": "WORN CARGO PANTS",
+        "image_male": "catalog/legs/Items.Pants_04_old_01_male.png",
+        "name_female": "WORN CARGO PANTS",
+        "image_female": "catalog/legs/Items.Pants_04_old_01_female.png"
+    },
+    "Items.Pants_07_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_07_old_02\", 1)",
+        "name_male": "WORN KANG TAO TACTICAL PANTS",
+        "image_male": "catalog/legs/Items.Pants_07_old_02_male.png",
+        "name_female": "WORN KANG TAO TACTICAL PANTS",
+        "image_female": "catalog/legs/Items.Pants_07_old_02_female.png"
+    },
+    "Items.Pants_13_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_old_03\", 1)",
+        "name_male": "WORN MAELSTROM RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_old_03_male.png",
+        "name_female": "WORN MAELSTROM RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_old_03_female.png"
+    },
+    "Items.VHard_50_RefBody_Legs": {
+        "command": "Game.AddToInventory(\"Items.VHard_50_RefBody_Legs\", 1)",
+        "name_male": "WORN MAELSTROM RIDING PANTS",
+        "image_male": "catalog/legs/Items.VHard_50_RefBody_Legs_male.png",
+        "name_female": "WORN MAELSTROM RIDING PANTS",
+        "image_female": "catalog/legs/Items.VHard_50_RefBody_Legs_female.png"
+    },
+    "Items.Pants_19_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_19_old_03\", 1)",
+        "name_male": "WORN SYNLEATHER CRAWLERS",
+        "image_male": "catalog/legs/Items.Pants_19_old_03_male.png",
+        "name_female": "WORN SYNLEATHER CRAWLERS",
+        "image_female": "catalog/legs/Items.Pants_19_old_03_female.png"
+    },
+    "Items.Pants_08_old_03": {
+        "command": "Game.AddToInventory(\"Items.Pants_08_old_03\", 1)",
+        "name_male": "WORN WRAITHS NEOTAC PANTS",
+        "image_male": "catalog/legs/Items.Pants_08_old_03_male.png",
+        "name_female": "WORN WRAITHS NEOTAC PANTS",
+        "image_female": "catalog/legs/Items.Pants_08_old_03_female.png"
+    },
+    "Items.Pants_13_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_13_basic_02\", 1)",
+        "name_male": "WRAITHS ANTI-TEAR RIDING PANTS",
+        "image_male": "catalog/legs/Items.Pants_13_basic_02_male.png",
+        "name_female": "WRAITHS ANTI-TEAR RIDING PANTS",
+        "image_female": "catalog/legs/Items.Pants_13_basic_02_female.png"
+    },
+    "Items.Pants_09_old_01": {
+        "command": "Game.AddToInventory(\"Items.Pants_09_old_01\", 1)",
+        "name_male": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Pants_09_old_01_male.png",
+        "name_female": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Pants_09_old_01_female.png"
+    },
+    "Items.Q301_Nomad_MA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Nomad_MA_Pants\", 1)",
+        "name_male": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Q301_Nomad_MA_Pants_male.png",
+        "name_female": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Q301_Nomad_MA_Pants_female.png"
+    },
+    "Items.Q301_Nomad_WA_Pants": {
+        "command": "Game.AddToInventory(\"Items.Q301_Nomad_WA_Pants\", 1)",
+        "name_male": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_male": "catalog/legs/Items.Q301_Nomad_WA_Pants_male.png",
+        "name_female": "WRAITHS EXTRA-COTTON UTILITY PANTS",
+        "image_female": "catalog/legs/Items.Q301_Nomad_WA_Pants_female.png"
+    },
+    "Items.Q005_Yorinobu_FormalPants": {
+        "command": "Game.AddToInventory(\"Items.Q005_Yorinobu_FormalPants\", 1)",
+        "name_male": "YORINOBU'S SLACKS",
+        "image_male": "catalog/legs/Items.Q005_Yorinobu_FormalPants_male.png",
+        "name_female": "YORINOBU'S SLACKS",
+        "image_female": "catalog/legs/Items.Q005_Yorinobu_FormalPants_female.png"
+    },
+    "Items.Pants_05_rich_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_05_rich_02\", 1)",
+        "name_male": "YORU NO SAMURAI ARMORED KNEE-PAD RACERS",
+        "image_male": "catalog/legs/Items.Pants_05_rich_02_male.png",
+        "name_female": "YORU NO SAMURAI ARMORED KNEE-PAD RACERS",
+        "image_female": "catalog/legs/Items.Pants_05_rich_02_female.png"
+    },
+    "Items.Pants_02_basic_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_02_basic_02\", 1)",
+        "name_male": "YORU NO SAMURAI PADDED LOOSE-FITS",
+        "image_male": "catalog/legs/Items.Pants_02_basic_02_male.png",
+        "name_female": "YORU NO SAMURAI PADDED LOOSE-FITS",
+        "image_female": "catalog/legs/Items.Pants_02_basic_02_female.png"
+    },
+    "Items.Pants_14_old_02": {
+        "command": "Game.AddToInventory(\"Items.Pants_14_old_02\", 1)",
+        "name_male": "YORU NO SAMURAI YOROS",
+        "image_male": "catalog/legs/Items.Pants_14_old_02_male.png",
+        "name_female": "YORU NO SAMURAI YOROS",
+        "image_female": "catalog/legs/Items.Pants_14_old_02_female.png"
+    }
+}
